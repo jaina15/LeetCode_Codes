@@ -17,6 +17,7 @@
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|236 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Oracle](./solutions/596.%20Classes%20More%20Than%205%20Students.sql)|528 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Oracle](./solutions/620.%20Not%20Boring%20Movies.sql)|491 ms|
+|626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Oracle](./solutions/626.%20Exchange%20Seats.sql)|574 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[Oracle](./solutions/627.%20Swap%20Salary.sql)|786 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.cpp)|0 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|0 ms|
