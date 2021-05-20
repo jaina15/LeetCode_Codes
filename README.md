@@ -11,6 +11,7 @@
 |176|[ Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Oracle](./solutions/176.%20Second%20Highest%20Salary.sql)|421 ms|
 |177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Oracle](./solutions/177.%20Nth%20Highest%20Salary.sql)|837 ms|
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Oracle](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|957 ms|
+|182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Oracle](./solutions/182.%20Duplicate%20Emails.sql)|622 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|236 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.cpp)|0 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|0 ms|
