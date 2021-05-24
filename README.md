@@ -10,6 +10,7 @@
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|120 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Python3](./solutions/66.%20Plus%20One.py)|36 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python3](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|44 ms|
+|92|[ Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python3](./solutions/92.%20Reverse%20Linked%20List%20II.py)|36 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python3](./solutions/125.%20Valid%20Palindrome.py)|48 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Oracle](./solutions/175.%20Combine%20Two%20Tables.sql)|508 ms|
 |176|[ Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Oracle](./solutions/176.%20Second%20Highest%20Salary.sql)|421 ms|
