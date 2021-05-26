@@ -15,6 +15,7 @@
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python3](./solutions/125.%20Valid%20Palindrome.py)|48 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python3](./solutions/141.%20Linked%20List%20Cycle.py)|56 ms|
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python3](./solutions/142.%20Linked%20List%20Cycle%20II.py)|44 ms|
+|160|[ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python3](./solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.py)|176 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Oracle](./solutions/175.%20Combine%20Two%20Tables.sql)|508 ms|
 |176|[ Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Oracle](./solutions/176.%20Second%20Highest%20Salary.sql)|421 ms|
 |177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Oracle](./solutions/177.%20Nth%20Highest%20Salary.sql)|837 ms|
