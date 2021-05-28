@@ -34,6 +34,7 @@
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Oracle](./solutions/626.%20Exchange%20Seats.sql)|574 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[Oracle](./solutions/627.%20Swap%20Salary.sql)|786 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python3](./solutions/709.%20To%20Lower%20Case.py)|28 ms|
+|725|[ Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python3](./solutions/725.%20Split%20Linked%20List%20in%20Parts.py)|40 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./solutions/876.%20Middle%20of%20the%20Linked%20List.python)|12 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|28 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.python)|20 ms|
