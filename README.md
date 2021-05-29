@@ -11,6 +11,7 @@
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|120 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Python3](./solutions/66.%20Plus%20One.py)|36 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python3](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|44 ms|
+|86|[ Partition List](https://leetcode.com/problems/partition-list/)|[Python3](./solutions/86.%20Partition%20List.py)|36 ms|
 |92|[ Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python3](./solutions/92.%20Reverse%20Linked%20List%20II.py)|36 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python3](./solutions/125.%20Valid%20Palindrome.py)|48 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python3](./solutions/141.%20Linked%20List%20Cycle.py)|56 ms|
