@@ -29,3 +29,19 @@ class Solution:
             return r
         elif r is None:
             return l
+        dummy=ListNode(0)
+        temp=dummy
+        
+        while l and r:
+            if l.val<=r.val:
+                temp.next=l
+                l=l.next
+            else:
+                temp.next=r
+                r=r.next
+            temp=temp.next
+        
+        if r is None:
+            temp.next=l
+        else:
+            temp.next=r
