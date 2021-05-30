@@ -19,7 +19,7 @@
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python3](./solutions/125.%20Valid%20Palindrome.py)|48 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python3](./solutions/141.%20Linked%20List%20Cycle.py)|56 ms|
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python3](./solutions/142.%20Linked%20List%20Cycle%20II.py)|44 ms|
-|143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|[Python3](./solutions/143.%20Reorder%20List.py)||
+|143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|[Python3](./solutions/143.%20Reorder%20List.py)|96 ms|
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)|[Python3](./solutions/148.%20Sort%20List.py)|468 ms|
 |160|[ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python3](./solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.py)|176 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Oracle](./solutions/175.%20Combine%20Two%20Tables.sql)|508 ms|
