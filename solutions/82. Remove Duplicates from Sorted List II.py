@@ -17,7 +17,7 @@ class Solution:
                 prev.next=curr.next
             else:
                 prev=prev.next
-                print(prev)
+                #print(prev)
             curr=curr.next
         
         return ans.next
