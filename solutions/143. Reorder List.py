@@ -24,6 +24,7 @@ class Solution:
             curr=next
         slow.next=None
         
+        
         #ye tagda logic h, bahot tagda. Samjhana padega ise acche se
         #ye 2 list ko alternatively merge karne k liye h
         head1, head2 = head, prev
