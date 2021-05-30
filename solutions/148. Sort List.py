@@ -45,3 +45,7 @@ class Solution:
             temp.next=l
         else:
             temp.next=r
+        
+        return dummy.next
+        
+        
