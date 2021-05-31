@@ -40,6 +40,7 @@
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Oracle](./solutions/620.%20Not%20Boring%20Movies.sql)|491 ms|
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Oracle](./solutions/626.%20Exchange%20Seats.sql)|574 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[Oracle](./solutions/627.%20Swap%20Salary.sql)|786 ms|
+|682|[ Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python3](./solutions/682.%20Baseball%20Game.py)|36 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python3](./solutions/709.%20To%20Lower%20Case.py)|28 ms|
 |725|[ Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python3](./solutions/725.%20Split%20Linked%20List%20in%20Parts.py)|40 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./solutions/876.%20Middle%20of%20the%20Linked%20List.python)|12 ms|
