@@ -38,6 +38,7 @@
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|236 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|40 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|64 ms|
+|496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python3](./solutions/496.%20Next%20Greater%20Element%20I.py)|84 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Oracle](./solutions/596.%20Classes%20More%20Than%205%20Students.sql)|528 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Oracle](./solutions/620.%20Not%20Boring%20Movies.sql)|491 ms|
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Oracle](./solutions/626.%20Exchange%20Seats.sql)|574 ms|
