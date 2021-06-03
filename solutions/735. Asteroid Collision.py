@@ -37,3 +37,7 @@ class Solution:
                 elif stack[-1]+i==0 and i<0:
                     stack.pop()
                 else:
+                    stack.append(i)
+                    #print(stack)
+                    
+        return stack
