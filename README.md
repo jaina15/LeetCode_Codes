@@ -50,6 +50,7 @@
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python3](./solutions/739.%20Daily%20Temperatures.py)|1308 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python3](./solutions/844.%20Backspace%20String%20Compare.py)|36 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./solutions/876.%20Middle%20of%20the%20Linked%20List.python)|12 ms|
+|921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|48 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|40 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python3](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|84 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|28 ms|
