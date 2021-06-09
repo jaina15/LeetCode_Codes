@@ -56,6 +56,7 @@
 |880|[ Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Python3](./solutions/880.%20Decoded%20String%20at%20Index.py)|36 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|48 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|76 ms|
+|1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[Python3](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.py)|48 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|40 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python3](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|84 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|28 ms|
