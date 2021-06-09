@@ -37,6 +37,7 @@
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python3](./solutions/232.%20Implement%20Queue%20using%20Stacks.py)|40 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python3](./solutions/234.%20Palindrome%20Linked%20List.py)|892 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|236 ms|
+|316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python3](./solutions/316.%20Remove%20Duplicate%20Letters.py)|40 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|40 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[Python3](./solutions/394.%20Decode%20String.py)|28 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|64 ms|
