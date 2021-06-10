@@ -56,6 +56,7 @@
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python3](./solutions/856.%20Score%20of%20Parentheses.py)|28 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./solutions/876.%20Middle%20of%20the%20Linked%20List.python)|12 ms|
 |880|[ Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Python3](./solutions/880.%20Decoded%20String%20at%20Index.py)|36 ms|
+|907|[ Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python3](./solutions/907.%20Sum%20of%20Subarray%20Minimums.py)|668 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|48 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|76 ms|
 |1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[Python3](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.py)|48 ms|
