@@ -1,36 +1,29 @@
 class Solution:
     def sumSubarrayMins(self, a: List[int]) -> int:
-        mod=1000000007
+        next_smaller=[]
+        prev_smaller=[]
         stack=[]
-        left=[]
-        right=[]
+        
         for i in range(len(a)):
-            c=1
-            if i==0:
-                stack.append([a[i],c])
-            else:
-                while stack and a[i]<stack[-1][0]:
-                    c+=stack[-1][1]
-                    stack.pop()
-                stack.append([a[i],c])
-            left.append(c)
+            prev_smaller.append(i)
+            next_smaller.append(len(a)-i-1)
             
+        for i in range(len(a)):
+            while stack and a[stack[-1]] >=  a[i]:
+                next_smaller[stack[-1]]=i-stack[-1]-1
+                stack.pop()
+            stack.append(i)
+        
         stack.clear()
         for i in range(len(a)-1,-1,-1):
-            c=1
-            if i==len(a)-1:
-                stack.append([a[i],c])
-            else:
-                while stack and a[i]<=stack[-1][0]:
-                    c+=stack[-1][1]
-                    stack.pop()
-                stack.append([a[i],c])
-            right.append(c)
-        right=right[::-1]
-        #print(left)
-        #print(right)
+            while stack and a[stack[-1]] >  a[i]:
+                prev_smaller[stack[-1]]=stack[-1]-1-i
+                stack.pop()
+            stack.append(i)
+            
         s=0
+        mod=1000000007
         for i in range(len(a)):
-            s=((s%mod)+(a[i]*left[i]*right[i])%mod)%mod
+            s=((s%mod)+(a[i]*(next_smaller[i]+1)*(prev_smaller[i]+1))%mod)%mod
         
         return s
