@@ -81,6 +81,7 @@
 |1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|100 ms|
 |1669|[ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python3](./solutions/1669.%20Merge%20In%20Between%20Linked%20Lists.py)|460 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)|4 ms|
+|1673|[ Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[Python3](./solutions/1673.%20Find%20the%20Most%20Competitive%20Subsequence.py)|1360 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python3](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)|2336 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|0 ms|
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|156 ms|
