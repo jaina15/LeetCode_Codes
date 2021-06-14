@@ -40,6 +40,7 @@
 |316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python3](./solutions/316.%20Remove%20Duplicate%20Letters.py)|40 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|40 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[Python3](./solutions/394.%20Decode%20String.py)|28 ms|
+|402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python3](./solutions/402.%20Remove%20K%20Digits.py)|40 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|64 ms|
 |456|[ 132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python3](./solutions/456.%20132%20Pattern.py)|536 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python3](./solutions/496.%20Next%20Greater%20Element%20I.py)|48 ms|
