@@ -42,7 +42,7 @@
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[Python3](./solutions/394.%20Decode%20String.py)|28 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|64 ms|
 |456|[ 132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python3](./solutions/456.%20132%20Pattern.py)|536 ms|
-|496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python3](./solutions/496.%20Next%20Greater%20Element%20I.py)|84 ms|
+|496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python3](./solutions/496.%20Next%20Greater%20Element%20I.py)|48 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python3](./solutions/503.%20Next%20Greater%20Element%20II.py)|292 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Oracle](./solutions/596.%20Classes%20More%20Than%205%20Students.sql)|528 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Oracle](./solutions/620.%20Not%20Boring%20Movies.sql)|491 ms|
