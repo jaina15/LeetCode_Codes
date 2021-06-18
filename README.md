@@ -55,6 +55,7 @@
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[Oracle](./solutions/627.%20Swap%20Salary.sql)|786 ms|
 |682|[ Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python3](./solutions/682.%20Baseball%20Game.py)|36 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python3](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|72 ms|
+|701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python3](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)|140 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python3](./solutions/709.%20To%20Lower%20Case.py)|28 ms|
 |725|[ Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python3](./solutions/725.%20Split%20Linked%20List%20in%20Parts.py)|40 ms|
 |735|[ Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python3](./solutions/735.%20Asteroid%20Collision.py)|176 ms|
