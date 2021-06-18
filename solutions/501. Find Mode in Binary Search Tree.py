@@ -29,3 +29,6 @@ class Solution:
         
     def inorder(self,root,l):
         if root:
+            self.inorder(root.left,l)
+            l.append(root.val)
+            self.inorder(root.right,l)
