@@ -79,6 +79,7 @@
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python3](./solutions/938.%20Range%20Sum%20of%20BST.py)|276 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|76 ms|
 |1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[Python3](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.py)|48 ms|
+|1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python3](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.py)|36 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|40 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python3](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|72 ms|
 |1081|[ Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|[Python3](./solutions/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters.py)|36 ms|
