@@ -43,6 +43,7 @@
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Oracle](./solutions/182.%20Duplicate%20Emails.sql)|622 ms|
 |183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Oracle](./solutions/183.%20Customers%20Who%20Never%20Order.sql)|872 ms|
 |197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Oracle](./solutions/197.%20Rising%20Temperature.sql)|756 ms|
+|199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python3](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.py)|36 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|60 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./solutions/206.%20Reverse%20Linked%20List.python)|20 ms|
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python3](./solutions/222.%20Count%20Complete%20Tree%20Nodes.py)|88 ms|
