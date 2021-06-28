@@ -40,3 +40,19 @@ class Solution:
                     l.append(None)
             if not root.left and not root.right:
                 l.append(root.val)
+            
+    def reverseinorder(self,root,l):
+        if root:
+            if root.left or root.right:
+                if root.right:
+                    self.reverseinorder(root.right,l)
+                else:
+                    l.append(None)
+                l.append(root.val)
+                if root.left:
+                    self.reverseinorder(root.left,l)
+                else:
+                    l.append(None)
+            if not root.left and not root.right:
+                l.append(root.val)
+        
