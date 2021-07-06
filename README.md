@@ -105,6 +105,7 @@
 |958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python3](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py)|36 ms|
 |965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python3](./solutions/965.%20Univalued%20Binary%20Tree.py)|32 ms|
 |988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python3](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.py)|72 ms|
+|993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python3](./solutions/993.%20Cousins%20in%20Binary%20Tree.py)|32 ms|
 |1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[Python3](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.py)|48 ms|
 |1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python3](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.py)|36 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|40 ms|
