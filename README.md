@@ -102,6 +102,7 @@
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|48 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python3](./solutions/938.%20Range%20Sum%20of%20BST.py)|276 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|76 ms|
+|958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python3](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py)|36 ms|
 |965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python3](./solutions/965.%20Univalued%20Binary%20Tree.py)|32 ms|
 |988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python3](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.py)|72 ms|
 |1003|[ Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[Python3](./solutions/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.py)|48 ms|
