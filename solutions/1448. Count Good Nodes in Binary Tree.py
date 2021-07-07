@@ -9,7 +9,7 @@ class Solution:
     maxx=float('-inf')
     def goodNodes(self, root: TreeNode) -> int:
         self.maxx=root.val
-        print(self.helper(root,self.s,self.maxx))
+        self.helper(root,self.s,self.maxx)
         #print(self.s)
         return self.s
     
