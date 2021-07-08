@@ -31,9 +31,11 @@ class Solution:
         if len(l[-1])==1:
             return TreeNode(l[-1][0])
         node = self.lowestCommonAncestor(root,l[-1][0],l[-1][1])
-        for i in range(2,len(l[-1])):
-            node=self.lowestCommonAncestor(root,node.val,l[-1][i])
-        return node
+        #instead of calculating lca of all nodes, just calculate lca of first and last node of last level
+        #for i in range(2,len(l[-1])):
+        #    node=self.lowestCommonAncestor(root,node.val,l[-1][i])
+        #return node
+        return self.lowestCommonAncestor(root,l[-1][0],l[-1][len(l[-1])-1])
         
     def lowestCommonAncestor(self,root,p,q):
         if root is None:
