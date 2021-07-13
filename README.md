@@ -73,6 +73,7 @@
 |437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python3](./solutions/437.%20Path%20Sum%20III.py)|928 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|64 ms|
 |449|[ Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Python3](./solutions/449.%20Serialize%20and%20Deserialize%20BST.py)|112 ms|
+|450|[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python3](./solutions/450.%20Delete%20Node%20in%20a%20BST.py)|72 ms|
 |456|[ 132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python3](./solutions/456.%20132%20Pattern.py)|536 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python3](./solutions/496.%20Next%20Greater%20Element%20I.py)|48 ms|
 |501|[ Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python3](./solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py)|52 ms|
