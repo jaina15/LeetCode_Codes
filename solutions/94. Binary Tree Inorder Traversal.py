@@ -29,7 +29,7 @@ class Solution:
                 curr=curr.right
             else:
                 pre=curr.left
-                while pre.right:
+                while pre.right and pre.right!=curr:
                     pre=pre.right
                 pre.right=curr
                 temp=curr
