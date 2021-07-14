@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+​
+# hahahhahahahahahaha, leetcode p solution dekh k mujhe apne aap p rona aaarha h, hahahahahahahahhah
 class Solution:
     def trimBST(self, root: TreeNode, low: int, high: int) -> TreeNode:
         l=[]
