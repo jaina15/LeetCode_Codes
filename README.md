@@ -104,6 +104,7 @@
 |735|[ Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python3](./solutions/735.%20Asteroid%20Collision.py)|176 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python3](./solutions/739.%20Daily%20Temperatures.py)|1272 ms|
 |783|[ Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python3](./solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes.py)|24 ms|
+|814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python3](./solutions/814.%20Binary%20Tree%20Pruning.py)|32 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python3](./solutions/844.%20Backspace%20String%20Compare.py)|36 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python3](./solutions/856.%20Score%20of%20Parentheses.py)|28 ms|
 |865|[ Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Python3](./solutions/865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.py)|44 ms|
