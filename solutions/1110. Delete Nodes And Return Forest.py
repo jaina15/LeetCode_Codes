@@ -7,6 +7,8 @@
 class Solution:
     def delNodes(self, root: TreeNode, to_delete: List[int]) -> List[TreeNode]:
         ans=[]
+        #used set instead of list to make lookup faster
+        to_delete = set(to_delete)
         self.order(root,to_delete,ans)
         if root.val not in to_delete:
             ans.append(root)
