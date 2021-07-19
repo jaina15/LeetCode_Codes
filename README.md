@@ -117,6 +117,7 @@
 |880|[ Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Python3](./solutions/880.%20Decoded%20String%20at%20Index.py)|36 ms|
 |897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Python3](./solutions/897.%20Increasing%20Order%20Search%20Tree.py)|32 ms|
 |907|[ Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python3](./solutions/907.%20Sum%20of%20Subarray%20Minimums.py)|628 ms|
+|919|[ Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)|[Python3](./solutions/919.%20Complete%20Binary%20Tree%20Inserter.py)|468 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|48 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python3](./solutions/938.%20Range%20Sum%20of%20BST.py)|276 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|76 ms|
