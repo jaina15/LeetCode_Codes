@@ -7,7 +7,7 @@
 class Solution:
     s=0
     def goodNodes(self, root: TreeNode) -> int:
-        maxi=maxi=root.val
+        maxi=root.val
         self.counter(root,maxi)
         return self.s
         
