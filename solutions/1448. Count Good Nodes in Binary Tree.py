@@ -6,25 +6,15 @@
 #         self.right = right
 class Solution:
     s=0
-    maxx=float('-inf')
     def goodNodes(self, root: TreeNode) -> int:
-        self.maxx=root.val
-        self.helper(root,self.s,self.maxx)
-        #print(self.s)
+        maxi=maxi=root.val
+        self.counter(root,maxi)
         return self.s
-    
-    def helper(self,root,s,maxx):
-        if root is None:
-            return 0
+        
+    def counter(self,root,maxi):
         if root:
-            if root.val>=maxx:
-                #print(root.val)
+            if root.val>=maxi:
+                maxi=root.val
                 self.s+=1
-                maxx=max(maxx,root.val)
-            if root.left is not None and root.right is not None:
-                self.helper(root.left,self.s,maxx)
-                self.helper(root.right,self.s,maxx)
-            elif root.left is not None and root.right is None:
-                self.helper(root.left,self.s,maxx)
-            elif root.left is None and root.right is not None:
-                self.helper(root.right,self.s,maxx)
+            self.counter(root.left,maxi)
+            self.counter(root.right,maxi)
