@@ -159,7 +159,7 @@
 |1382|[ Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Python3](./solutions/1382.%20Balance%20a%20Binary%20Search%20Tree.py)|776 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|0 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python3](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.py)|28 ms|
-|1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python3](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.py)|240 ms|
+|1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python3](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.py)|236 ms|
 |1457|[ Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python3](./solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.py)|864 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](./solutions/1470.%20Shuffle%20the%20Array.cpp)|8 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](./solutions/1480.%20Running%20Sum%20of%201d%20Array.cpp)|0 ms|
