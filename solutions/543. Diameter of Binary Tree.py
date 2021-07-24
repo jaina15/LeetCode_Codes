@@ -5,19 +5,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    ans=float('-inf')
     def diameterOfBinaryTree(self, root: TreeNode) -> int:
-        ans=[-9999999]
-        h=self.height(root,ans)
-        #print(ans)
-        #print(h)
-        return ans[0]
+        h=self.height(root)
+        return self.ans
     
-    def height(self,root,ans):
+    def height(self,root):
         if root is None:
             return 0
-        l=self.height(root.left,ans)
-        r=self.height(root.right,ans)
-        ans[0]=max(ans[0],l+r)
-        #print(ans)
-        
+        l=self.height(root.left)
+        r=self.height(root.right)
+        self.ans=max(self.ans,l+r)
         return 1+max(l,r)
