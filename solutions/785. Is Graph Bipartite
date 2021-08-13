@@ -1,0 +1,30 @@
+from collections import defaultdict
+class Solution:
+    def isBipartite(self, graph: List[List[int]]) -> bool:
+        g=defaultdict(list)
+        for i in range(len(graph)):
+            if len(graph[i]):
+                for j in range(len(graph[i])):
+                    g[i].append(graph[i][j])
+            else:
+                g[i]+=[]
+                
+        color=[-1]*len(g)
+        for i in range(len(g)):
+            if color[i]== -1:
+                if not self.dfsCheck(i,g,color):
+                    return False
+        
+        return True
+    
+    def dfsCheck(self,node,g,color):
+        if color[node]==-1:
+            color[node]=1
+        for i in g[node]:
+            if color[i]==color[node]:
+                return False
+            elif color[i]==-1:
+                color[i]=1-color[node]
+                if not self.dfsCheck(i,g,color):
+                    return False
+        return True
