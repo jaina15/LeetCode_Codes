@@ -116,6 +116,7 @@
 |743|[ Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Python3](./solutions/743.%20Network%20Delay%20Time.py)|476 ms|
 |783|[ Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python3](./solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes.py)|24 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Python3](./solutions/785.%20Is%20Graph%20Bipartite%3F.py)|291 ms|
+|787|[ Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Python3](./solutions/787.%20Cheapest%20Flights%20Within%20K%20Stops.py)|104 ms|
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Python3](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.py)|88 ms|
 |814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python3](./solutions/814.%20Binary%20Tree%20Pruning.py)|32 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python3](./solutions/841.%20Keys%20and%20Rooms.py)|64 ms|
