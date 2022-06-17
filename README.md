@@ -164,6 +164,7 @@
 |1325|[ Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python3](./solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.py)|48 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[Python3](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.py)|388 ms|
 |1361|[ Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)|[Python3](./solutions/1361.%20Validate%20Binary%20Tree%20Nodes.py)|304 ms|
+|1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python3](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)|93 ms|
 |1367|[ Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python3](./solutions/1367.%20Linked%20List%20in%20Binary%20Tree.py)|104 ms|
 |1379|[ Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python3](./solutions/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.py)|656 ms|
 |1381|[ Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python3](./solutions/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.py)|356 ms|
