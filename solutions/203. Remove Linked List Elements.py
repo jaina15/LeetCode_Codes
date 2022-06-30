@@ -4,23 +4,18 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def removeElements(self, head: ListNode, val: int) -> ListNode:
-        if head is None:
-            return None
-        
-        temp = head
-        prev=None
-        while temp:
-            if temp.val==val:
-                # ye wala if jo head element ka h mujhe baar baar isme problem hoti h. ise dhyan me rakhna h
-                if temp==head:
-                    temp=head.next
-                    head=head.next
+    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
+        curr, prev = head, None
+        if not head:
+            return
+        while curr:
+            if curr.val == val:
+                if prev:
+                    prev.next = curr.next
                 else:
-                    prev.next=temp.next
-                    temp=temp.next
+                    head = curr.next
+                curr = curr.next
             else:
-                prev=temp
-                temp=temp.next
-            
+                prev = curr
+                curr = curr.next
         return head
