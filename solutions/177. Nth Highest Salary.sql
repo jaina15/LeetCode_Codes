@@ -2,9 +2,12 @@ CREATE FUNCTION getNthHighestSalary(N IN NUMBER) RETURN NUMBER IS
 result NUMBER;
 BEGIN
     /* Write your PL/SQL query statement below */
-    select distinct salary into result from (
-    select salary, dense_rank() over (order by salary desc) rn from employee)
-    where rn=n;
+    SELECT DISTINCT SALARY INTO RESULT FROM (
+        SELECT 
+            SALARY,
+            DENSE_RANK() OVER(ORDER BY SALARY DESC) RN
+        FROM EMPLOYEE)
+    WHERE RN=N;
     
     RETURN result;
 END;
