@@ -1,3 +1,4 @@
 /* Write your PL/SQL query statement below */
-select class from courses 
-group by class having count(distinct student)>4
+SELECT CLASS FROM COURSES
+GROUP BY CLASS
+HAVING COUNT(DISTINCT STUDENT)>=5
