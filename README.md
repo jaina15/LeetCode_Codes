@@ -185,6 +185,7 @@
 |1530|[ Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|[Python3](./solutions/1530.%20Number%20of%20Good%20Leaf%20Nodes%20Pairs.py)|N/A|
 |1541|[ Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)|[Python3](./solutions/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.py)|296 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|56 ms|
+|1587|[ Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)|[Oracle](./solutions/1587.%20Bank%20Account%20Summary%20II.sql)|1270 ms|
 |1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|100 ms|
 |1609|[ Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python3](./solutions/1609.%20Even%20Odd%20Tree.py)|564 ms|
 |1669|[ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python3](./solutions/1669.%20Merge%20In%20Between%20Linked%20Lists.py)|460 ms|
