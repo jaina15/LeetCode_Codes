@@ -152,7 +152,7 @@
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python3](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|72 ms|
 |1081|[ Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|[Python3](./solutions/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters.py)|36 ms|
 |1104|[ Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)|[Python3](./solutions/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree.py)|28 ms|
-|1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|28 ms|
+|1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|32 ms|
 |1110|[ Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python3](./solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py)|96 ms|
 |1123|[ Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Python3](./solutions/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py)|64 ms|
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python3](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)|300 ms|
