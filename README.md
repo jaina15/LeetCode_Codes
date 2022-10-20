@@ -203,4 +203,5 @@
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|156 ms|
 |1920|[ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Python3](./solutions/1920.%20Build%20Array%20from%20Permutation.py)|259 ms|
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python3](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|119 ms|
+|2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Python3](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|78 ms|
 |2413|[ Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Python3](./solutions/2413.%20Smallest%20Even%20Multiple.py)|49 ms|
