@@ -191,6 +191,7 @@
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)|4 ms|
 |1673|[ Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[Python3](./solutions/1673.%20Find%20the%20Most%20Competitive%20Subsequence.py)|1360 ms|
 |1688|[ Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python3](./solutions/1688.%20Count%20of%20Matches%20in%20Tournament.py)|32 ms|
+|1693|[ Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[Oracle](./solutions/1693.%20Daily%20Leads%20and%20Partners.sql)|831 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python3](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)|2336 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|0 ms|
 |1741|[ Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[Oracle](./solutions/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|1302 ms|
