@@ -53,7 +53,7 @@
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Oracle](./solutions/175.%20Combine%20Two%20Tables.sql)|765 ms|
 |176|[ Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Oracle](./solutions/176.%20Second%20Highest%20Salary.sql)|421 ms|
 |177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Oracle](./solutions/177.%20Nth%20Highest%20Salary.sql)|903 ms|
-|178|[ Rank Scores](https://leetcode.com/problems/rank-scores/)|[Oracle](./solutions/178.%20Rank%20Scores.sql)|736 ms|
+|178|[ Rank Scores](https://leetcode.com/problems/rank-scores/)|[Oracle](./solutions/178.%20Rank%20Scores.sql)|567 ms|
 |180|[ Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Oracle](./solutions/180.%20Consecutive%20Numbers.sql)|929 ms|
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Oracle](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|633 ms|
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Oracle](./solutions/182.%20Duplicate%20Emails.sql)|622 ms|
