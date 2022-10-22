@@ -1,2 +1,11 @@
 /* Write your PL/SQL query statement below */
-select max(salary) as secondhighestsalary from employee where salary not in(select max(salary) from employee);
+SELECT (
+SELECT DISTINCT SALARY 
+FROM(
+    SELECT 
+    SALARY,
+    DENSE_RANK() OVER(ORDER BY SALARY DESC) RN
+    FROM EMPLOYEE
+    )
+WHERE RN=2) AS SECONDHIGHESTSALARY
+FROM DUAL
