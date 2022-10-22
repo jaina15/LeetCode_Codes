@@ -156,6 +156,7 @@
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|32 ms|
 |1110|[ Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python3](./solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py)|96 ms|
 |1123|[ Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Python3](./solutions/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py)|64 ms|
+|1148|[ Article Views I](https://leetcode.com/problems/article-views-i/)|[Oracle](./solutions/1148.%20Article%20Views%20I.sql)|1446 ms|
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python3](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)|300 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[Oracle](./solutions/1179.%20Reformat%20Department%20Table.sql)|1030 ms|
 |1190|[ Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python3](./solutions/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)|40 ms|
