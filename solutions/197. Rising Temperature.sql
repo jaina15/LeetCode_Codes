@@ -1,5 +1,13 @@
 /* Write your PL/SQL query statement below */
-​
-select w.id from weather w, weather r where w.recorddate-r.recorddate=1
-and w.temperature>r.temperature
-​
+SELECT ID
+FROM(
+    SELECT
+    ID,
+    TEMPERATURE,
+    RECORDDATE,
+    LAG(TEMPERATURE) OVER(ORDER BY RECORDDATE) PREV_TEMP,
+    LAG(RECORDDATE) OVER(ORDER BY RECORDDATE) PREV_DATE
+    FROM WEATHER
+    )
+WHERE TEMPERATURE>PREV_TEMP
+AND RECORDDATE-PREV_DATE=1
