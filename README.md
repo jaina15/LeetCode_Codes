@@ -101,6 +101,7 @@
 |547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Python3](./solutions/547.%20Number%20of%20Provinces.py)|196 ms|
 |563|[ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python3](./solutions/563.%20Binary%20Tree%20Tilt.py)|76 ms|
 |572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python3](./solutions/572.%20Subtree%20of%20Another%20Tree.py)|228 ms|
+|586|[ Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Oracle](./solutions/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)|683 ms|
 |595|[ Big Countries](https://leetcode.com/problems/big-countries/)|[Oracle](./solutions/595.%20Big%20Countries.sql)|524 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Oracle](./solutions/596.%20Classes%20More%20Than%205%20Students.sql)|477 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Python3](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.py)|48 ms|
