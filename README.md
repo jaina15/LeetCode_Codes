@@ -206,6 +206,7 @@
 |1795|[ Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[Oracle](./solutions/1795.%20Rearrange%20Products%20Table.sql)|864 ms|
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python3](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|36 ms|
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|156 ms|
+|1873|[ Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[Oracle](./solutions/1873.%20Calculate%20Special%20Bonus.sql)|775 ms|
 |1920|[ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Python3](./solutions/1920.%20Build%20Array%20from%20Permutation.py)|259 ms|
 |1965|[ Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[Oracle](./solutions/1965.%20Employees%20With%20Missing%20Information.sql)|801 ms|
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python3](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|119 ms|
