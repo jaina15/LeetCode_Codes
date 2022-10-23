@@ -57,7 +57,7 @@
 |180|[ Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Oracle](./solutions/180.%20Consecutive%20Numbers.sql)|929 ms|
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Oracle](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|717 ms|
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Oracle](./solutions/182.%20Duplicate%20Emails.sql)|659 ms|
-|183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Oracle](./solutions/183.%20Customers%20Who%20Never%20Order.sql)|872 ms|
+|183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Oracle](./solutions/183.%20Customers%20Who%20Never%20Order.sql)|810 ms|
 |185|[ Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[Oracle](./solutions/185.%20Department%20Top%20Three%20Salaries.sql)|1290 ms|
 |197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Oracle](./solutions/197.%20Rising%20Temperature.sql)|597 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python3](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.py)|36 ms|
