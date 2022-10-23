@@ -60,6 +60,7 @@
 |183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Oracle](./solutions/183.%20Customers%20Who%20Never%20Order.sql)|810 ms|
 |184|[ Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Oracle](./solutions/184.%20Department%20Highest%20Salary.sql)|912 ms|
 |185|[ Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[Oracle](./solutions/185.%20Department%20Top%20Three%20Salaries.sql)|1206 ms|
+|196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Oracle](./solutions/196.%20Delete%20Duplicate%20Emails.sql)|955 ms|
 |197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Oracle](./solutions/197.%20Rising%20Temperature.sql)|597 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python3](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.py)|36 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|135 ms|
