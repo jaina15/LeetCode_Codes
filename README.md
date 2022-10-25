@@ -107,6 +107,7 @@
 |595|[ Big Countries](https://leetcode.com/problems/big-countries/)|[Oracle](./solutions/595.%20Big%20Countries.sql)|524 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Oracle](./solutions/596.%20Classes%20More%20Than%205%20Students.sql)|733 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Python3](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.py)|48 ms|
+|607|[ Sales Person](https://leetcode.com/problems/sales-person/)|[Oracle](./solutions/607.%20Sales%20Person.sql)|2918 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Oracle](./solutions/620.%20Not%20Boring%20Movies.sql)|520 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python3](./solutions/623.%20Add%20One%20Row%20to%20Tree.py)|52 ms|
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Oracle](./solutions/626.%20Exchange%20Seats.sql)|574 ms|
