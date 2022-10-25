@@ -1,11 +1,8 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        while True:
-            p=s.find('abc')
-            if p>=0:
+        while len(s)>0:
+            if 'abc' in s:
                 s=s.replace('abc','')
-                #print(s)
-                if s=='':
-                    return True
             else:
                 return False
+        return True if len(s)==0 else False
