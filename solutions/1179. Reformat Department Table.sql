@@ -1,19 +1,19 @@
 /* Write your PL/SQL query statement below */
-SELECT *
-FROM DEPARTMENT
+SELECT * FROM
+DEPARTMENT
 PIVOT(
-SUM(REVENUE)
-FOR MONTH IN 
-    ('Jan' AS Jan_Revenue,
-     'Feb' AS Feb_Revenue,
-     'Mar' AS Mar_Revenue,
-     'Apr' AS Apr_Revenue,
-     'May' AS May_Revenue,
-     'Jun' AS Jun_Revenue,
-     'Jul' AS Jul_Revenue,
-     'Aug' AS Aug_Revenue,
-     'Sep' AS Sep_Revenue,
-     'Oct' AS Oct_Revenue,
-     'Nov' AS Nov_Revenue,
-     'Dec' AS Dec_Revenue)
-)
+MAX(REVENUE)
+FOR MONTH IN
+    ('Jan' as Jan_Revenue,
+     'Feb' as Feb_Revenue,
+     'Mar'as Mar_Revenue,
+     'Apr' as Apr_Revenue,
+     'May' as May_Revenue,
+     'Jun' as Jun_Revenue,
+     'Jul' as Jul_Revenue,
+     'Aug' as Aug_Revenue,
+     'Sep' as Sep_Revenue,
+     'Oct' as Oct_Revenue,
+     'Nov' as Nov_Revenue,
+     'Dec' as Dec_Revenue))
+​
