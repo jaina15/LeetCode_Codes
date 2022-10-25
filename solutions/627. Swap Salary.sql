@@ -1,2 +1,6 @@
 /* Write your PL/SQL query statement below */
-update Salary set sex = case when sex='f' then 'm' else 'f' end;
+UPDATE SALARY
+SET SEX = CASE 
+    WHEN SEX = 'm' THEN 'f'
+    ELSE 'm' END
+​
