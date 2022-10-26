@@ -1,0 +1,19 @@
+/* Write your PL/SQL query statement below */
+/*
+select
+    to_char(sell_date,'yyyy-mm-dd') sell_date,
+    count(distinct product) num_sold,
+    listagg(product,',') WITHIN GROUP (ORDER BY sell_date) products
+from Activities 
+group by to_char(sell_date,'yyyy-mm-dd')
+order by 1
+*/
+​
+​
+SELECT 
+    sell_date,
+    COUNT(DISTINCT product) AS num_sold,
+    GROUP_CONCAT(DISTINCT product ORDER BY product ASC) AS products
+FROM Activities
+GROUP BY sell_date
+ORDER BY 1 ASC
