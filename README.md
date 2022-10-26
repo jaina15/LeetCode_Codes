@@ -66,7 +66,7 @@
 |197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Oracle](./solutions/197.%20Rising%20Temperature.sql)|597 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python3](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.py)|36 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|135 ms|
-|206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./solutions/206.%20Reverse%20Linked%20List.python)|20 ms|
+|206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|78 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python3](./solutions/207.%20Course%20Schedule.py)|96 ms|
 |210|[ Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python3](./solutions/210.%20Course%20Schedule%20II.py)|96 ms|
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python3](./solutions/222.%20Count%20Complete%20Tree%20Nodes.py)|88 ms|
