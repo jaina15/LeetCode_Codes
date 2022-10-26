@@ -106,6 +106,7 @@
 |586|[ Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Oracle](./solutions/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)|683 ms|
 |595|[ Big Countries](https://leetcode.com/problems/big-countries/)|[Oracle](./solutions/595.%20Big%20Countries.sql)|524 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Oracle](./solutions/596.%20Classes%20More%20Than%205%20Students.sql)|733 ms|
+|599|[ Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python3](./solutions/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.py)|312 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Python3](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.py)|48 ms|
 |607|[ Sales Person](https://leetcode.com/problems/sales-person/)|[Oracle](./solutions/607.%20Sales%20Person.sql)|2918 ms|
 |608|[ Tree Node](https://leetcode.com/problems/tree-node/)|[Oracle](./solutions/608.%20Tree%20Node.sql)|733 ms|
