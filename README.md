@@ -230,7 +230,7 @@
 |1693|[ Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[Oracle](./solutions/1693.%20Daily%20Leads%20and%20Partners.sql)|831 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python3](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)|2336 ms|
 |1729|[ Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[Oracle](./solutions/1729.%20Find%20Followers%20Count.sql)|809 ms|
-|1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|0 ms|
+|1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python3](./solutions/1732.%20Find%20the%20Highest%20Altitude.py)|79 ms|
 |1741|[ Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[Oracle](./solutions/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|1302 ms|
 |1757|[ Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](./solutions/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)|858 ms|
 |1795|[ Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[Oracle](./solutions/1795.%20Rearrange%20Products%20Table.sql)|864 ms|
