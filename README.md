@@ -237,6 +237,7 @@
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|156 ms|
 |1873|[ Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[Oracle](./solutions/1873.%20Calculate%20Special%20Bonus.sql)|775 ms|
 |1890|[ The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)|[Oracle](./solutions/1890.%20The%20Latest%20Login%20in%202020.sql)|1170 ms|
+|1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python3](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|163 ms|
 |1920|[ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Python3](./solutions/1920.%20Build%20Array%20from%20Permutation.py)|259 ms|
 |1965|[ Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[Oracle](./solutions/1965.%20Employees%20With%20Missing%20Information.sql)|801 ms|
 |1967|[ Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|[Python3](./solutions/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py)|42 ms|
