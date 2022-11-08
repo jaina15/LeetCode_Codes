@@ -217,7 +217,7 @@
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python3](./solutions/1528.%20Shuffle%20String.py)|117 ms|
 |1530|[ Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|[Python3](./solutions/1530.%20Number%20of%20Good%20Leaf%20Nodes%20Pairs.py)|N/A|
 |1541|[ Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)|[Python3](./solutions/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.py)|296 ms|
-|1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|56 ms|
+|1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|33 ms|
 |1581|[ Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|[Oracle](./solutions/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)|2356 ms|
 |1587|[ Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)|[Oracle](./solutions/1587.%20Bank%20Account%20Summary%20II.sql)|1270 ms|
 |1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|90 ms|
