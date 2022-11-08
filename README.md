@@ -220,7 +220,7 @@
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|56 ms|
 |1581|[ Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|[Oracle](./solutions/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)|2356 ms|
 |1587|[ Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)|[Oracle](./solutions/1587.%20Bank%20Account%20Summary%20II.sql)|1270 ms|
-|1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|100 ms|
+|1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|90 ms|
 |1609|[ Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python3](./solutions/1609.%20Even%20Odd%20Tree.py)|564 ms|
 |1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python3](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|38 ms|
 |1667|[ Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[Oracle](./solutions/1667.%20Fix%20Names%20in%20a%20Table.sql)|789 ms|
