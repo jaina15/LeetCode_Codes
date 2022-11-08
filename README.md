@@ -148,7 +148,7 @@
 |804|[ Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python3](./solutions/804.%20Unique%20Morse%20Code%20Words.py)|32 ms|
 |814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python3](./solutions/814.%20Binary%20Tree%20Pruning.py)|32 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python3](./solutions/841.%20Keys%20and%20Rooms.py)|64 ms|
-|844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python3](./solutions/844.%20Backspace%20String%20Compare.py)|36 ms|
+|844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python3](./solutions/844.%20Backspace%20String%20Compare.py)|73 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python3](./solutions/856.%20Score%20of%20Parentheses.py)|28 ms|
 |865|[ Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Python3](./solutions/865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.py)|44 ms|
 |872|[ Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python3](./solutions/872.%20Leaf-Similar%20Trees.py)|28 ms|
