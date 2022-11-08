@@ -222,6 +222,7 @@
 |1587|[ Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)|[Oracle](./solutions/1587.%20Bank%20Account%20Summary%20II.sql)|1270 ms|
 |1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|100 ms|
 |1609|[ Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python3](./solutions/1609.%20Even%20Odd%20Tree.py)|564 ms|
+|1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python3](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|38 ms|
 |1667|[ Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[Oracle](./solutions/1667.%20Fix%20Names%20in%20a%20Table.sql)|789 ms|
 |1669|[ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python3](./solutions/1669.%20Merge%20In%20Between%20Linked%20Lists.py)|460 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)|4 ms|
