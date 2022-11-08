@@ -248,6 +248,7 @@
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python3](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|119 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python3](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)|1911 ms|
 |2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Python3](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|78 ms|
+|2129|[ Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)|[Python3](./solutions/2129.%20Capitalize%20the%20Title.py)|65 ms|
 |2130|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Python3](./solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py)|2275 ms|
 |2236|[ Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python3](./solutions/2236.%20Root%20Equals%20Sum%20of%20Children.py)|59 ms|
 |2390|[ Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[Python3](./solutions/2390.%20Removing%20Stars%20From%20a%20String.py)|611 ms|
