@@ -239,7 +239,7 @@
 |1757|[ Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](./solutions/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)|858 ms|
 |1795|[ Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[Oracle](./solutions/1795.%20Rearrange%20Products%20Table.sql)|864 ms|
 |1816|[ Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python3](./solutions/1816.%20Truncate%20Sentence.py)|47 ms|
-|1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python3](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|36 ms|
+|1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python3](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|55 ms|
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|156 ms|
 |1873|[ Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[Oracle](./solutions/1873.%20Calculate%20Special%20Bonus.sql)|775 ms|
 |1890|[ The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)|[Oracle](./solutions/1890.%20The%20Latest%20Login%20in%202020.sql)|1170 ms|
