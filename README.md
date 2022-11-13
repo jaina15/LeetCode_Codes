@@ -251,6 +251,7 @@
 |1965|[ Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[Oracle](./solutions/1965.%20Employees%20With%20Missing%20Information.sql)|801 ms|
 |1967|[ Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|[Python3](./solutions/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py)|42 ms|
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python3](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|119 ms|
+|2042|[ Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)|[Python3](./solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py)|33 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python3](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)|1911 ms|
 |2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Python3](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|78 ms|
 |2129|[ Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)|[Python3](./solutions/2129.%20Capitalize%20the%20Title.py)|65 ms|
