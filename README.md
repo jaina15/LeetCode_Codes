@@ -233,7 +233,7 @@
 |1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python3](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|38 ms|
 |1667|[ Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[Oracle](./solutions/1667.%20Fix%20Names%20in%20a%20Table.sql)|789 ms|
 |1669|[ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python3](./solutions/1669.%20Merge%20In%20Between%20Linked%20Lists.py)|460 ms|
-|1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)|4 ms|
+|1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python3](./solutions/1672.%20Richest%20Customer%20Wealth.py)|51 ms|
 |1673|[ Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[Python3](./solutions/1673.%20Find%20the%20Most%20Competitive%20Subsequence.py)|1360 ms|
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|58 ms|
 |1688|[ Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python3](./solutions/1688.%20Count%20of%20Matches%20in%20Tournament.py)|32 ms|
