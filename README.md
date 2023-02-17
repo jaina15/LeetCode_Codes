@@ -217,7 +217,7 @@
 |1457|[ Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python3](./solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.py)|864 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python3](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py)|97 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python3](./solutions/1470.%20Shuffle%20the%20Array.py)|57 ms|
-|1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python3](./solutions/1480.%20Running%20Sum%20of%201d%20Array.py)|80 ms|
+|1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python3](./solutions/1480.%20Running%20Sum%20of%201d%20Array.py)|33 ms|
 |1484|[ Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[MySQL](./solutions/1484.%20Group%20Sold%20Products%20By%20The%20Date.mysql)|1020 ms|
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.py)|66 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python3](./solutions/1512.%20Number%20of%20Good%20Pairs.py)|63 ms|
