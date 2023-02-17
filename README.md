@@ -262,5 +262,5 @@
 |2130|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Python3](./solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py)|2275 ms|
 |2236|[ Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python3](./solutions/2236.%20Root%20Equals%20Sum%20of%20Children.py)|59 ms|
 |2390|[ Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[Python3](./solutions/2390.%20Removing%20Stars%20From%20a%20String.py)|611 ms|
-|2413|[ Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Python3](./solutions/2413.%20Smallest%20Even%20Multiple.py)|49 ms|
+|2413|[ Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Python3](./solutions/2413.%20Smallest%20Even%20Multiple.py)|40 ms|
 |2469|[ Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python3](./solutions/2469.%20Convert%20the%20Temperature.py)|38 ms|
