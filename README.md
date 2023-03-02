@@ -272,3 +272,4 @@
 |2413|[ Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Python3](./solutions/2413.%20Smallest%20Even%20Multiple.py)|40 ms|
 |2455|[ Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python3](./solutions/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py)|79 ms|
 |2469|[ Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python3](./solutions/2469.%20Convert%20the%20Temperature.py)|38 ms|
+|2544|[ Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)|[Python3](./solutions/2544.%20Alternating%20Digit%20Sum.py)|23 ms|
