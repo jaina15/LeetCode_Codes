@@ -5,35 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inorderTraversal(self, root: TreeNode) -> List[int]:
-    #one liner    
-    #    return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right) if root else []
-    
-    #recursive
-    #    l=[]
-    #    self.recursive_call(root,l)
-    #    return l
-    
-    #def recursive_call(self,root,l):
-    #    if root:
-    #        self.recursive_call(root.left,l)
-    #        l.append(root.val)
-    #        self.recursive_call(root.right,l)
-     
-    #Morris Traversal
-        curr=root
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         l=[]
-        while curr:
-            if not curr.left:
-                l.append(curr.val)
-                curr=curr.right
-            else:
-                pre=curr.left
-                while pre.right and pre.right!=curr:
-                    pre=pre.right
-                pre.right=curr
-                temp=curr
-                curr=curr.left
-                temp.left=None    
+        self.helper(root,l)
         return l
-                    
+    
+    def helper(self,root,l):
+        if root:
+            self.helper(root.left,l)
+            l.append(root.val)
+            self.helper(root.right,l)
