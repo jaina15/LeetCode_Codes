@@ -1,21 +1,12 @@
-/* Write your PL/SQL query statement below */
+select product_id,'store1' store,store1 price
+from Products where store1 is not NULL
 ​
-SELECT 
-PRODUCT_ID,LOWER(STORE) STORE,PRICE
-FROM PRODUCTS
-UNPIVOT(
-PRICE
-FOR STORE IN (store1,store2,store3))
-ORDER BY 1
+union
 ​
-/*
+select product_id,'store2' store,store2 price
+from Products where store2 is not NULL
 ​
-SELECT product_id, 'store1' AS store, store1 AS price FROM Products WHERE store1 IS NOT NULL
-UNION 
-SELECT product_id, 'store2' AS store, store2 AS price FROM Products WHERE store2 IS NOT NULL
-UNION 
-SELECT product_id, 'store3' AS store, store3 AS price FROM Products WHERE store3 IS NOT NULL
+union
 ​
-ORDER BY 1,2 ASC
-​
-*/
+select product_id,'store3' store,store3 price
+from Products where store3 is not NULL;
