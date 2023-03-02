@@ -6,17 +6,13 @@
 #         self.right = right
 class Solution:
     def getAllElements(self, root1: TreeNode, root2: TreeNode) -> List[int]:
-        l1=[]
-        l2=[]
-        self.inorder(root1,l1)
-        self.inorder(root2,l2)
-        
-        l=l1+l2
-        l.sort()
-        return l
-        
-    def inorder(self,root,l):
+        t1,t2=[],[]
+        self.helper(root1,t1)
+        self.helper(root2,t2)
+        return sorted(t1+t2)
+    
+    def helper(self,root,t):
         if root:
-            self.inorder(root.left,l)
-            l.append(root.val)
-            self.inorder(root.right,l)
+            self.helper(root.left,t)
+            t.append(root.val)
+            self.helper(root.right,t)
