@@ -5,17 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isValidBST(self, root: TreeNode) -> bool:
+    def isValidBST(self, root: Optional[TreeNode]) -> bool:
         l=[]
-        self.inorderTraverse(root,l)
-        #print(l)
-        for i in range(len(l)-1):
-            if l[i]>=l[i+1]:
-                return False
-        return True
-        
-    def inorderTraverse(self,root,l):
+        self.helper(root,l)
+        return l==sorted(l) and l==sorted(list(set(l)))
+    
+    def helper(self,root,l):
         if root:
-            self.inorderTraverse(root.left,l)
+            self.helper(root.left,l)
             l.append(root.val)
-            self.inorderTraverse(root.right,l)
+            self.helper(root.right,l)
