@@ -1,46 +1,17 @@
-#        temp=head
-#        while temp:
-#            l.append(temp.val)
-#            temp=temp.next
-#        a=l[k-1]
-#        b=l[len(l)-k]
-        #print(l)
-        #print(a)
-        #print(b)
-#        l[k-1]=b
-#        l[len(l)-k]=a
-        #print(l)
-#        head=ListNode()
-#        for i in l:
-#            new_node=ListNode(i)
-#            
-#            last=head
-#             while last.next:
-#                last=last.next
-                
-#            last.next=new_node
-        
-#        return head.next
-​
-​
-# ye mere wale solution ka h optmized version h, isme mene list se ll banane k time me nested loop nhi use kia. Ye yaad rakhna h!!!!!
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         l=[]
-        temp=head
-        while temp:
-            l.append(temp.val)
-            temp=temp.next
-        a=l[k-1]
-        b=l[len(l)-k]
-        #print(l)
-        #print(a)
-        #print(b)
-        l[k-1]=b
-        l[len(l)-k]=a
-        #print(l)
-        head=dummy=ListNode()
+        while head:
+            l.append(head.val)
+            head=head.next
+        l[k-1],l[len(l)-k]=l[len(l)-k],l[k-1]
+        head=ans=ListNode(0)
         for i in l:
-            dummy.next=ListNode(i)
-            dummy=dummy.next
-        
+            ans.next=ListNode(i)
+            ans=ans.next
         return head.next
-        
