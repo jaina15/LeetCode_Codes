@@ -1,9 +1,11 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        max1=max2=float('-inf')
-        for i in nums:
-            if i>=max1:
-                max1,max2=i,max1
-            elif i>max2:
-                max2=i
-        return (max1-1)*(max2-1)
+        maxi=nums[0]
+        secmaxi=-1
+        for i in range(1,len(nums)):
+            if nums[i] > maxi:
+                secmaxi = maxi
+                maxi = nums[i]
+            else:
+                secmaxi = max(secmaxi, nums[i])
+        return (maxi-1)*(secmaxi-1)
