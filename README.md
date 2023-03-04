@@ -259,7 +259,7 @@
 |1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python3](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|163 ms|
 |1920|[ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Python3](./solutions/1920.%20Build%20Array%20from%20Permutation.py)|259 ms|
 |1929|[ Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Python3](./solutions/1929.%20Concatenation%20of%20Array.py)|93 ms|
-|1965|[ Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[Oracle](./solutions/1965.%20Employees%20With%20Missing%20Information.sql)|801 ms|
+|1965|[ Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[Oracle](./solutions/1965.%20Employees%20With%20Missing%20Information.sql)|760 ms|
 |1967|[ Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|[Python3](./solutions/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py)|42 ms|
 |2006|[ Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[Python3](./solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py)|64 ms|
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python3](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|119 ms|
