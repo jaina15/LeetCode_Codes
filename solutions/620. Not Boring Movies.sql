@@ -1,7 +1,6 @@
 /* Write your PL/SQL query statement below */
-SELECT
-*
+SELECT *
 FROM CINEMA
-WHERE DESCRIPTION<>'boring'
-AND MOD(ID,2)<>0
-ORDER BY RATING DESC
+WHERE MOD(ID,2)=1
+AND DESCRIPTION<>'boring'
+order by rating desc
