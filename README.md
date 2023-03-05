@@ -30,7 +30,7 @@
 |101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python3](./solutions/101.%20Symmetric%20Tree.py)|32 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python3](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)|36 ms|
 |103|[ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python3](./solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)|32 ms|
-|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|40 ms|
+|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|44 ms|
 |105|[ Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python3](./solutions/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)|56 ms|
 |106|[ Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python3](./solutions/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py)|60 ms|
 |107|[ Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python3](./solutions/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.py)|32 ms|
