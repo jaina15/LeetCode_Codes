@@ -194,6 +194,7 @@
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python3](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)|300 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MS SQL Server](./solutions/1179.%20Reformat%20Department%20Table.ms%20sql%20server)|1597 ms|
 |1190|[ Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python3](./solutions/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)|40 ms|
+|1207|[ Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python3](./solutions/1207.%20Unique%20Number%20of%20Occurrences.py)|28 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Python3](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.py)|176 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Python3](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)|152 ms|
 |1261|[ Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Python3](./solutions/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.py)|752 ms|
