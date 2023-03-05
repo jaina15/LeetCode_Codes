@@ -4,5 +4,6 @@ class Solution:
         for i in nums:
             if i in s:
                 return True
-            s.add(i)
+            else:
+                s.add(i)
         return False
