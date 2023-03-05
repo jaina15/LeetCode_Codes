@@ -45,6 +45,7 @@
 |117|[ Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python3](./solutions/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.py)|52 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python3](./solutions/125.%20Valid%20Palindrome.py)|49 ms|
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python3](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.py)|32 ms|
+|136|[ Single Number](https://leetcode.com/problems/single-number/)|[Python3](./solutions/136.%20Single%20Number.py)|135 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python3](./solutions/141.%20Linked%20List%20Cycle.py)|52 ms|
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python3](./solutions/142.%20Linked%20List%20Cycle%20II.py)|44 ms|
 |143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|[Python3](./solutions/143.%20Reorder%20List.py)|80 ms|
