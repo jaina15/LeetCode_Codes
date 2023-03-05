@@ -276,6 +276,7 @@
 |2181|[ Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[Python3](./solutions/2181.%20Merge%20Nodes%20in%20Between%20Zeros.py)|3124 ms|
 |2185|[ Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python3](./solutions/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py)|49 ms|
 |2236|[ Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python3](./solutions/2236.%20Root%20Equals%20Sum%20of%20Children.py)|59 ms|
+|2357|[ Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Python3](./solutions/2357.%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.py)|42 ms|
 |2390|[ Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[Python3](./solutions/2390.%20Removing%20Stars%20From%20a%20String.py)|233 ms|
 |2413|[ Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Python3](./solutions/2413.%20Smallest%20Even%20Multiple.py)|40 ms|
 |2455|[ Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python3](./solutions/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py)|79 ms|
