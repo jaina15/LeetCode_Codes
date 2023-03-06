@@ -6,18 +6,22 @@
 #         self.right = right
 from collections import deque as queue
 class Solution:
-    def zigzagLevelOrder(self, root: TreeNode) -> List[List[int]]:
-        if root is None:
+    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if not root:
             return
         q=queue()
         q.append(root)
         q.append(None)
-        l=[]
-        a=[]
+        l,a=[],[]
+        j=0
         while len(q)>0:
-            curr=q.popleft()
+            curr = q.popleft()
             if curr is None:
-                l.append(a)
+                if j%2==0:
+                    l.append(a)
+                else:
+                    l.append(a[::-1])
+                j+=1
                 a=[]
                 if len(q)==0:
                     break
@@ -28,8 +32,4 @@ class Solution:
                 if curr.right:
                     q.append(curr.right)
                 a.append(curr.val)
-        for i in range(len(l)):
-            if i%2!=0:
-                l[i]=l[i][::-1]
         return l
-        
