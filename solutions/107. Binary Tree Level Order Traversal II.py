@@ -6,22 +6,15 @@
 #         self.right = right
 from collections import deque as queue
 class Solution:
-    def levelOrderBottom(self, root: TreeNode) -> List[List[int]]:
-        l=self.leveler(root)
-        return l
-    
-    def leveler(self,root):
-        if root is None:
+    def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if not root:
             return
-        
         q=queue()
         q.append(root)
         q.append(None)
-        l=[]
-        a=[]
-        
+        l,a=[],[]
         while len(q)>0:
-            curr=q.popleft()
+            curr = q.popleft()
             if curr is None:
                 l.append(a)
                 a=[]
@@ -34,6 +27,4 @@ class Solution:
                 if curr.right:
                     q.append(curr.right)
                 a.append(curr.val)
-        
         return l[::-1]
-        
