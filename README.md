@@ -70,7 +70,7 @@
 |185|[ Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[Oracle](./solutions/185.%20Department%20Top%20Three%20Salaries.sql)|1370 ms|
 |196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Oracle](./solutions/196.%20Delete%20Duplicate%20Emails.sql)|987 ms|
 |197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Oracle](./solutions/197.%20Rising%20Temperature.sql)|769 ms|
-|199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python3](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.py)|36 ms|
+|199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python3](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.py)|32 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|75 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|32 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python3](./solutions/207.%20Course%20Schedule.py)|96 ms|
