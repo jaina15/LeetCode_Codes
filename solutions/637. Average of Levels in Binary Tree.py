@@ -6,20 +6,13 @@
 #         self.right = right
 from collections import deque as queue
 class Solution:
-    def averageOfLevels(self, root: TreeNode) -> List[float]:
-        l=self.dfs(root)
-        #print(l)
-        return l
-    
-    def dfs(self,root):
-        if root is None:
+    def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
+        if not root:
             return
-        
         q=queue()
         q.append(root)
         q.append(None)
-        l=[]
-        a=[]
+        l,a=[],[]
         while len(q)>0:
             curr=q.popleft()
             if curr is None:
@@ -34,5 +27,4 @@ class Solution:
                 if curr.right:
                     q.append(curr.right)
                 a.append(curr.val)
-        
         return l
