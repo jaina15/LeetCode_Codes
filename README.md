@@ -131,6 +131,7 @@
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Python3](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.py)|48 ms|
 |607|[ Sales Person](https://leetcode.com/problems/sales-person/)|[Oracle](./solutions/607.%20Sales%20Person.sql)|2918 ms|
 |608|[ Tree Node](https://leetcode.com/problems/tree-node/)|[Oracle](./solutions/608.%20Tree%20Node.sql)|733 ms|
+|611|[ Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python3](./solutions/611.%20Valid%20Triangle%20Number.py)|979 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Oracle](./solutions/620.%20Not%20Boring%20Movies.sql)|510 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python3](./solutions/623.%20Add%20One%20Row%20to%20Tree.py)|52 ms|
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Oracle](./solutions/626.%20Exchange%20Seats.sql)|537 ms|
