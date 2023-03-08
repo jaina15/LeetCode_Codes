@@ -1,5 +1,3 @@
 /* Write your PL/SQL query statement below */
-SELECT NAME,POPULATION,AREA
-FROM WORLD
-WHERE AREA>=3000000 
-OR POPULATION>=25000000
+select name,population,area
+from world where population>=25000000 or area>=3000000
