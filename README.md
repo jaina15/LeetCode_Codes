@@ -65,7 +65,7 @@
 |173|[ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python3](./solutions/173.%20Binary%20Search%20Tree%20Iterator.py)|72 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Oracle](./solutions/175.%20Combine%20Two%20Tables.sql)|640 ms|
 |176|[ Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Oracle](./solutions/176.%20Second%20Highest%20Salary.sql)|695 ms|
-|177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Oracle](./solutions/177.%20Nth%20Highest%20Salary.sql)|675 ms|
+|177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Oracle](./solutions/177.%20Nth%20Highest%20Salary.sql)|781 ms|
 |178|[ Rank Scores](https://leetcode.com/problems/rank-scores/)|[Oracle](./solutions/178.%20Rank%20Scores.sql)|655 ms|
 |180|[ Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Oracle](./solutions/180.%20Consecutive%20Numbers.sql)|929 ms|
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Oracle](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|759 ms|
