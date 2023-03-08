@@ -257,7 +257,7 @@
 |1688|[ Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python3](./solutions/1688.%20Count%20of%20Matches%20in%20Tournament.py)|33 ms|
 |1693|[ Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[Oracle](./solutions/1693.%20Daily%20Leads%20and%20Partners.sql)|1038 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python3](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)|1795 ms|
-|1729|[ Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[Oracle](./solutions/1729.%20Find%20Followers%20Count.sql)|809 ms|
+|1729|[ Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[Oracle](./solutions/1729.%20Find%20Followers%20Count.sql)|926 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python3](./solutions/1732.%20Find%20the%20Highest%20Altitude.py)|45 ms|
 |1741|[ Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[Oracle](./solutions/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|725 ms|
 |1748|[ Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python3](./solutions/1748.%20Sum%20of%20Unique%20Elements.py)|38 ms|
