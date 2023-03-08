@@ -131,7 +131,7 @@
 |572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python3](./solutions/572.%20Subtree%20of%20Another%20Tree.py)|228 ms|
 |584|[ Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[Oracle](./solutions/584.%20Find%20Customer%20Referee.sql)|883 ms|
 |586|[ Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Oracle](./solutions/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)|738 ms|
-|595|[ Big Countries](https://leetcode.com/problems/big-countries/)|[Oracle](./solutions/595.%20Big%20Countries.sql)|524 ms|
+|595|[ Big Countries](https://leetcode.com/problems/big-countries/)|[Oracle](./solutions/595.%20Big%20Countries.sql)|413 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Oracle](./solutions/596.%20Classes%20More%20Than%205%20Students.sql)|526 ms|
 |599|[ Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python3](./solutions/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.py)|312 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Python3](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.py)|48 ms|
