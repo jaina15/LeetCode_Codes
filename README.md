@@ -223,7 +223,7 @@
 |1381|[ Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python3](./solutions/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.py)|356 ms|
 |1382|[ Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Python3](./solutions/1382.%20Balance%20a%20Binary%20Search%20Tree.py)|776 ms|
 |1393|[ Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|[Oracle](./solutions/1393.%20Capital%20Gain%2FLoss.sql)|695 ms|
-|1407|[ Top Travellers](https://leetcode.com/problems/top-travellers/)|[Oracle](./solutions/1407.%20Top%20Travellers.sql)|1150 ms|
+|1407|[ Top Travellers](https://leetcode.com/problems/top-travellers/)|[Oracle](./solutions/1407.%20Top%20Travellers.sql)|1049 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python3](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py)|37 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python3](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.py)|28 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python3](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.py)|236 ms|
