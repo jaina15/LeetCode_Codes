@@ -268,7 +268,7 @@
 |1816|[ Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python3](./solutions/1816.%20Truncate%20Sentence.py)|32 ms|
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python3](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|55 ms|
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|156 ms|
-|1859|[ Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Python3](./solutions/1859.%20Sorting%20the%20Sentence.py)|59 ms|
+|1859|[ Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Python3](./solutions/1859.%20Sorting%20the%20Sentence.py)|29 ms|
 |1873|[ Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[Oracle](./solutions/1873.%20Calculate%20Special%20Bonus.sql)|775 ms|
 |1890|[ The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)|[Oracle](./solutions/1890.%20The%20Latest%20Login%20in%202020.sql)|1070 ms|
 |1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python3](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|163 ms|
