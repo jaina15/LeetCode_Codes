@@ -94,7 +94,7 @@
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python3](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)|72 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python3](./solutions/242.%20Valid%20Anagram.py)|52 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Python3](./solutions/258.%20Add%20Digits.py)|45 ms|
-|262|[ Trips and Users](https://leetcode.com/problems/trips-and-users/)|[Oracle](./solutions/262.%20Trips%20and%20Users.sql)|854 ms|
+|262|[ Trips and Users](https://leetcode.com/problems/trips-and-users/)|[MySQL](./solutions/262.%20Trips%20and%20Users.mysql)|1105 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|120 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|236 ms|
 |316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python3](./solutions/316.%20Remove%20Duplicate%20Letters.py)|40 ms|
