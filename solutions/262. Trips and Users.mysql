@@ -1,0 +1,20 @@
+/* Write your PL/SQL query statement below */
+WITH UNBANNED_USERS AS(
+    SELECT * FROM USERS WHERE BANNED='No'
+),
+TRIPSS AS(
+    SELECT CLIENT_ID,DRIVER_ID,STATUS,REQUEST_AT
+    FROM TRIPS WHERE REQUEST_AT BETWEEN "2013-10-01" and "2013-10-03"
+)
+select request_at as Day,round(((tot-completed)*1.0)/tot,2) as 'Cancellation rate'
+from(
+    SELECT 
+    REQUEST_AT,
+    COUNT(1) as tot, -- OVER(PARTITION BY T.REQUEST_AT) CNT,
+    SUM(CASE WHEN STATUS = 'completed' then 1 else 0 end) as completed
+     FROM TRIPSS T
+    INNER JOIN UNBANNED_USERS U
+    ON T.CLIENT_ID=U.USERS_ID
+    WHERE T.DRIVER_ID IN (SELECT USERS_ID FROM UNBANNED_USERS)
+    group by request_at
+)t
