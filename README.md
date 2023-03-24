@@ -142,7 +142,7 @@
 |611|[ Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python3](./solutions/611.%20Valid%20Triangle%20Number.py)|979 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Oracle](./solutions/620.%20Not%20Boring%20Movies.sql)|510 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python3](./solutions/623.%20Add%20One%20Row%20to%20Tree.py)|52 ms|
-|626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Oracle](./solutions/626.%20Exchange%20Seats.sql)|537 ms|
+|626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Oracle](./solutions/626.%20Exchange%20Seats.sql)|548 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[Oracle](./solutions/627.%20Swap%20Salary.sql)|818 ms|
 |637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python3](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.py)|45 ms|
 |654|[ Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python3](./solutions/654.%20Maximum%20Binary%20Tree.py)|252 ms|
