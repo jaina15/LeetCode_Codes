@@ -1,9 +1,11 @@
 /* Write your PL/SQL query statement below */
-SELECT 
+SELECT
 (CASE 
-    WHEN MOD(id,2)=1 AND id!=(SELECT COUNT(*) FROM seat) THEN id+1
-    WHEN MOD(id,2)=0 THEN id-1
-    ELSE id 
-END) id, student
-FROM seat
+    WHEN MOD(ID,2)=1 AND ID<>(SELECT COUNT(1) FROM SEAT) THEN ID+1
+    WHEN MOD(ID,2)=0 THEN ID-1
+    ELSE ID
+ END
+) AS ID,
+STUDENT
+FROM SEAT
 ORDER BY 1
