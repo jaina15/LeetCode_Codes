@@ -218,6 +218,7 @@
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.cpp)|0 ms|
 |1315|[ Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Python3](./solutions/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.py)|108 ms|
 |1325|[ Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python3](./solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.py)|48 ms|
+|1331|[ Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python3](./solutions/1331.%20Rank%20Transform%20of%20an%20Array.py)|364 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[Python3](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.py)|388 ms|
 |1361|[ Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)|[Python3](./solutions/1361.%20Validate%20Binary%20Tree%20Nodes.py)|304 ms|
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python3](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)|93 ms|
