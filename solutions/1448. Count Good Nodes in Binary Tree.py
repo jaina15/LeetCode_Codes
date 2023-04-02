@@ -10,7 +10,7 @@ class Solution:
         maxi=root.val
         self.counter(root,maxi)
         return self.s
-        
+    
     def counter(self,root,maxi):
         if root:
             if root.val>=maxi:
