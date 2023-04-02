@@ -9,21 +9,19 @@ class Node:
 """
 from collections import deque as queue
 class Solution:
-    def connect(self, root: 'Node') -> 'Node':
-        if root is None:
+    def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
+        if not root:
             return
+        l,a=[],[]
         q=queue()
         q.append(root)
         q.append(None)
-        a=[]
         while len(q)>0:
             curr=q.popleft()
             if curr is None:
-                if len(a)==1:
-                    pass
-                else:
-                    for i in range(len(a)-1):
-                        a[i].next=a[i+1]
+                for i in range(len(a)-1):
+                    a[i].next=a[i+1]
+                a[-1].next=None
                 a=[]
                 if len(q)==0:
                     break
