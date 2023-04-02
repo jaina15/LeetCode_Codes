@@ -9,12 +9,12 @@ class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if not root:
             return
+        l,a=[],[]
         q=queue()
         q.append(root)
         q.append(None)
-        l,a=[],[]
         while len(q)>0:
-            curr = q.popleft()
+            curr=q.popleft()
             if curr is None:
                 l.append(a[-1])
                 a=[]
