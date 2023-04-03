@@ -312,3 +312,4 @@
 |2529|[ Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)|[Python3](./solutions/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py)|131 ms|
 |2544|[ Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)|[Python3](./solutions/2544.%20Alternating%20Digit%20Sum.py)|23 ms|
 |2553|[ Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)|[Python3](./solutions/2553.%20Separate%20the%20Digits%20in%20an%20Array.py)|80 ms|
+|2574|[ Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Python3](./solutions/2574.%20Left%20and%20Right%20Sum%20Differences.py)|74 ms|
