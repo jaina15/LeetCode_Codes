@@ -261,7 +261,7 @@
 |1669|[ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python3](./solutions/1669.%20Merge%20In%20Between%20Linked%20Lists.py)|445 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python3](./solutions/1672.%20Richest%20Customer%20Wealth.py)|51 ms|
 |1673|[ Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[Python3](./solutions/1673.%20Find%20the%20Most%20Competitive%20Subsequence.py)|1360 ms|
-|1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|58 ms|
+|1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|31 ms|
 |1683|[ Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)|[Oracle](./solutions/1683.%20Invalid%20Tweets.sql)|783 ms|
 |1688|[ Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python3](./solutions/1688.%20Count%20of%20Matches%20in%20Tournament.py)|33 ms|
 |1693|[ Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[Oracle](./solutions/1693.%20Daily%20Leads%20and%20Partners.sql)|1038 ms|
