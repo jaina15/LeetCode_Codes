@@ -4,48 +4,35 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def sortList(self, head: ListNode) -> ListNode:
+    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head is None or head.next is None:
             return head
+        mid = self.getMiddle(head)
+        left = self.sortList(head)
+        right = self.sortList(mid)
         
-        slow,fast=head,head.next
-        
-        while fast and fast.next:
-            slow=slow.next
-            fast=fast.next.next
-        
-        second=slow.next
-        slow.next=None
-        #print(head)
-        #print(second)
-        l=self.sortList(head)
-        r=self.sortList(second)
-        #print("l->",l)
-        #print("r->",r)
-        return self.mergeSort(l,r)
+        return self.mergeTwoLists(left,right)
     
-    def mergeSort(self,l,r):
-        if l is None:
-            return r
-        elif r is None:
-            return l
-        dummy=ListNode(0)
-        temp=dummy
+    def getMiddle(self, head):
+        slow, fast = head, head
+        prev=None
+        while fast and fast.next:
+            prev=slow
+            slow =slow .next
+            fast = fast.next.next
+        prev.next=None
+        return slow
         
-        while l and r:
-            if l.val<=r.val:
-                temp.next=l
-                l=l.next
+    def mergeTwoLists(self, list1, list2):
+        curr = ans = ListNode()
+        
+        while list1 and list2:
+            if list1.val<list2.val:
+                curr.next = list1
+                list1, curr = list1.next, list1
             else:
-                temp.next=r
-                r=r.next
-            temp=temp.next
-        
-        if r is None:
-            temp.next=l
-        else:
-            temp.next=r
-        
-        return dummy.next
-        
-        
+                curr.next = list2
+                list2, curr = list2.next, list2
+        if list1 or list2:
+            curr.next = list1 if list1 else list2
+        return ans.next
