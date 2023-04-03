@@ -20,10 +20,10 @@ class Solution:
         point = new_curr
         prev=None
         for i in range(n-m+1):
-            nxt=new_curr
-            new_curr=new_curr.next
-            nxt.next=prev
-            prev=nxt
+            nxt=new_curr.next
+            new_curr.next = prev
+            prev = new_curr
+            new_curr = nxt
         curr.next=prev
         point.next=new_curr
         return dummyNode.next
