@@ -17,10 +17,10 @@ class Solution:
         curr=slow
         pre=None
         while slow:
-            curr=slow
-            slow=slow.next
-            curr.next=pre
-            pre=curr
+            nextt = slow.next
+            slow.next = pre
+            pre = slow
+            slow = nextt
         second=pre
         while init:
             if init.val!=second.val:
