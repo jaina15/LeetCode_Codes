@@ -5,14 +5,32 @@
 #         self.next = None
 ​
 class Solution:
-    def detectCycle(self, head: ListNode) -> ListNode:
-        s=set()
-        temp=head
+    def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        slow,fast = head,head
+        c=0
+        flag=0
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
+                flag=1
+                c=self.lengthCycle(slow)
+                break
+        if not flag:
+            return
+        h1,h2=head,head
+        while c>0:
+            h1=h1.next
+            c-=1
         
-        while(temp):
-            if(temp in s):
-                return temp
-            s.add(temp)
-            temp=temp.next
-            
-        return None
+        while h1!=h2:
+            h1=h1.next
+            h2=h2.next
+        return h1
+    
+    def lengthCycle(self,slow):
+        temp = slow.next
+        c=1
+        while temp!=slow:
+            temp = temp.next
+            c+=1
