@@ -19,9 +19,7 @@ class Solution:
         curr.next=None
         point = new_curr
         prev=None
-        last=None
         for i in range(n-m+1):
-            last=new_curr
             nxt=new_curr
             new_curr=new_curr.next
             nxt.next=prev
