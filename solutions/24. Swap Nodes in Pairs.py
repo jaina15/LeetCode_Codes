@@ -4,24 +4,23 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def swapPairs(self, head: ListNode) -> ListNode:
-        temp=head
-        l=[]
-        while temp:
-            l.append(temp.val)
-            temp=temp.next
-            
-        for i in range(0,len(l)-1,2):
-        #    print(i)
-            t=l[i]
-            l[i]=l[i+1]
-            l[i+1]=t
-        
-        #print(l)
-        
-        head=dummy=ListNode(0)
-        for i in l:
-            dummy.next=ListNode(i)
-            dummy=dummy.next
-        
-        return head.next
+    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        curr,count,k=head,0,2
+        while curr and count<k:
+            curr=curr.next
+            count+=1
+        if count<k:
+            return head
+        new_head,prev = self.reverse(head,k)
+        head.next = self.swapPairs(new_head)
+        return prev
+    
+    def reverse(self, head, count):
+        curr,prev=head,None
+        while curr and count>0:
+            nextt=curr.next
+            curr.next=prev
+            prev=curr
+            curr=nextt
+            count-=1
+        return (curr,prev)
