@@ -10,9 +10,9 @@ class Solution:
         if not root:
             return
         q=queue()
-        l,a=[],[]
         q.append(root)
         q.append(None)
+        l,a=[],[]
         while len(q)>0:
             curr = q.popleft()
             if curr is None:
