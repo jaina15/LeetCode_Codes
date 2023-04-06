@@ -121,7 +121,7 @@
 |456|[ 132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python3](./solutions/456.%20132%20Pattern.py)|536 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python3](./solutions/496.%20Next%20Greater%20Element%20I.py)|48 ms|
 |501|[ Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python3](./solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py)|61 ms|
-|503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python3](./solutions/503.%20Next%20Greater%20Element%20II.py)|292 ms|
+|503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python3](./solutions/503.%20Next%20Greater%20Element%20II.py)|234 ms|
 |508|[ Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[Python3](./solutions/508.%20Most%20Frequent%20Subtree%20Sum.py)|52 ms|
 |511|[ Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[Oracle](./solutions/511.%20Game%20Play%20Analysis%20I.sql)|885 ms|
 |513|[ Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python3](./solutions/513.%20Find%20Bottom%20Left%20Tree%20Value.py)|44 ms|
