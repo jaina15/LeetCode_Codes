@@ -197,6 +197,7 @@
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|40 ms|
 |1022|[ Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python3](./solutions/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)|48 ms|
 |1026|[ Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python3](./solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.py)|44 ms|
+|1045|[ Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/)|[Oracle](./solutions/1045.%20Customers%20Who%20Bought%20All%20Products.sql)|735 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python3](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|75 ms|
 |1050|[ Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)|[Oracle](./solutions/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql)|878 ms|
 |1051|[ Height Checker](https://leetcode.com/problems/height-checker/)|[Python3](./solutions/1051.%20Height%20Checker.py)|81 ms|
