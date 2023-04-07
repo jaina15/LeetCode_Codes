@@ -282,6 +282,7 @@
 |1859|[ Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Python3](./solutions/1859.%20Sorting%20the%20Sentence.py)|29 ms|
 |1873|[ Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[Oracle](./solutions/1873.%20Calculate%20Special%20Bonus.sql)|775 ms|
 |1890|[ The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)|[Oracle](./solutions/1890.%20The%20Latest%20Login%20in%202020.sql)|1070 ms|
+|1907|[ Count Salary Categories](https://leetcode.com/problems/count-salary-categories/)|[Oracle](./solutions/1907.%20Count%20Salary%20Categories.sql)|1178 ms|
 |1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python3](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|163 ms|
 |1920|[ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Python3](./solutions/1920.%20Build%20Array%20from%20Permutation.py)|259 ms|
 |1929|[ Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Python3](./solutions/1929.%20Concatenation%20of%20Array.py)|93 ms|
