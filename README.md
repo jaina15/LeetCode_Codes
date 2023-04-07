@@ -290,6 +290,7 @@
 |1934|[ Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)|[Oracle](./solutions/1934.%20Confirmation%20Rate.sql)|889 ms|
 |1965|[ Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[Oracle](./solutions/1965.%20Employees%20With%20Missing%20Information.sql)|760 ms|
 |1967|[ Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|[Python3](./solutions/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py)|42 ms|
+|1978|[ Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/)|[Oracle](./solutions/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.sql)|555 ms|
 |2006|[ Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[Python3](./solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py)|64 ms|
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python3](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|119 ms|
 |2016|[ Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|[Python3](./solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py)|39 ms|
