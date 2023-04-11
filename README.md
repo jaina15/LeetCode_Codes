@@ -49,7 +49,7 @@
 |110|[ Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python3](./solutions/110.%20Balanced%20Binary%20Tree.py)|48 ms|
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python3](./solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.py)|564 ms|
 |112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[Python3](./solutions/112.%20Path%20Sum.py)|60 ms|
-|113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python3](./solutions/113.%20Path%20Sum%20II.py)|52 ms|
+|113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python3](./solutions/113.%20Path%20Sum%20II.py)|55 ms|
 |114|[ Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python3](./solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py)|41 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python3](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|67 ms|
 |117|[ Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python3](./solutions/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.py)|47 ms|
