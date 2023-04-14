@@ -135,7 +135,7 @@
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python3](./solutions/543.%20Diameter%20of%20Binary%20Tree.py)|39 ms|
 |547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Python3](./solutions/547.%20Number%20of%20Provinces.py)|196 ms|
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python3](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.py)|115 ms|
-|563|[ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python3](./solutions/563.%20Binary%20Tree%20Tilt.py)|76 ms|
+|563|[ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python3](./solutions/563.%20Binary%20Tree%20Tilt.py)|56 ms|
 |572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python3](./solutions/572.%20Subtree%20of%20Another%20Tree.py)|228 ms|
 |577|[ Employee Bonus](https://leetcode.com/problems/employee-bonus/)|[Oracle](./solutions/577.%20Employee%20Bonus.sql)|964 ms|
 |584|[ Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[Oracle](./solutions/584.%20Find%20Customer%20Referee.sql)|883 ms|
