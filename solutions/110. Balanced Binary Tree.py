@@ -5,17 +5,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    bal=True
-    def isBalanced(self, root: TreeNode) -> bool:
-        self.helper(root)
-        return self.bal
+    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+        return self.helper(root)>=0
     
-    def helper(self,root):
-        if root is None:
+    def helper(self, root):
+        if not root:
             return 0
-        else:
-            left=self.helper(root.left)
-            right=self.helper(root.right)
-            if abs(left-right)>1:
-                self.bal=False
-            return 1+max(left,right)
+        left = self.helper(root.left)
+        right = self.helper(root.right)
+        
+        if left<0 or right<0 or abs(left-right)>1:
+            return -1
+        return max(left,right)+1
