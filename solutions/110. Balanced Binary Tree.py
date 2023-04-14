@@ -5,8 +5,12 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def __init__(self):
+        self.balance = True
+        
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        return self.helper(root)>=0
+        self.helper(root)
+        return self.balance
     
     def helper(self, root):
         if not root:
@@ -14,6 +18,6 @@ class Solution:
         left = self.helper(root.left)
         right = self.helper(root.right)
         
-        if left<0 or right<0 or abs(left-right)>1:
-            return -1
+        if abs(left-right)>1:
+            self.balance = False
         return max(left,right)+1
