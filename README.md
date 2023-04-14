@@ -301,7 +301,7 @@
 |2016|[ Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|[Python3](./solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py)|39 ms|
 |2042|[ Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)|[Python3](./solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py)|33 ms|
 |2089|[ Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[Python3](./solutions/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.py)|48 ms|
-|2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python3](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)|1859 ms|
+|2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python3](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)|1853 ms|
 |2108|[ Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Python3](./solutions/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py)|102 ms|
 |2109|[ Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)|[Python3](./solutions/2109.%20Adding%20Spaces%20to%20a%20String.py)|698 ms|
 |2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Python3](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|33 ms|
