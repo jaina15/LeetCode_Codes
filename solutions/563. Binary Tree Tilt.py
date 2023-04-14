@@ -5,19 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    ans=0
-    def findTilt(self, root: TreeNode) -> int:
-        self.calculator(root)
+    def __init__(self):
+        self.ans = 0
+        
+    def findTilt(self, root: Optional[TreeNode]) -> int:
+        self.helper(root)
         return self.ans
-    def calculator(self,root):
-        if root is None:
+    
+    def helper(self, root):
+        if not root:
             return 0
-        else:
-            left=self.calculator(root.left)
-            right=self.calculator(root.right)
-            #print('root=',root.val)
-            #print(root.val,' ka left ', left)
-            #print(root.val,' ka right ', right)
-            #print(abs(left-right))
-            self.ans+=abs(left-right)
-            return left+right+root.val
+        left = self.helper(root.left)
+        right = self.helper(root.right)
+        self.ans+=abs(left-right)
+        return left+right+root.val
