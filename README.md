@@ -283,7 +283,7 @@
 |1741|[ Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[MySQL](./solutions/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.mysql)|1202 ms|
 |1748|[ Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python3](./solutions/1748.%20Sum%20of%20Unique%20Elements.py)|38 ms|
 |1757|[ Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](./solutions/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)|1148 ms|
-|1795|[ Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[Oracle](./solutions/1795.%20Rearrange%20Products%20Table.sql)|1368 ms|
+|1795|[ Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[MySQL](./solutions/1795.%20Rearrange%20Products%20Table.mysql)|1167 ms|
 |1816|[ Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python3](./solutions/1816.%20Truncate%20Sentence.py)|32 ms|
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python3](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|23 ms|
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|156 ms|
