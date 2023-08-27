@@ -1,0 +1,14 @@
+# Write your MySQL query statement below
+with cte as(
+    SELECT
+    S.USER_ID,
+    SUM(CASE WHEN C.ACTION = 'timeout' then 1 else 0 end) as tout,
+    SUM(CASE WHEN C.ACTION = 'confirmed' then 1 else 0 end) as cnf
+    FROM SIGNUPS S
+    LEFT JOIN
+    CONFIRMATIONS C
+    ON S.USER_ID = C.USER_ID
+    group by s.user_id
+    )
+select user_id, round((cnf*1.0)/(case when(cnf+tout) = 0 then 1 else (cnf+tout) end) ,2) as confirmation_rate
+from cte
