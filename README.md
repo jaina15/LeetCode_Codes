@@ -217,6 +217,7 @@
 |1158|[ Market Analysis I](https://leetcode.com/problems/market-analysis-i/)|[Oracle](./solutions/1158.%20Market%20Analysis%20I.sql)|1517 ms|
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python3](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)|300 ms|
 |1173|[ Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/)|[MySQL](./solutions/1173.%20Immediate%20Food%20Delivery%20I.mysql)|1016 ms|
+|1174|[ Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/)|[MySQL](./solutions/1174.%20Immediate%20Food%20Delivery%20II.mysql)|1695 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MS SQL Server](./solutions/1179.%20Reformat%20Department%20Table.ms%20sql%20server)|1597 ms|
 |1190|[ Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python3](./solutions/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)|40 ms|
 |1207|[ Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python3](./solutions/1207.%20Unique%20Number%20of%20Occurrences.py)|28 ms|
