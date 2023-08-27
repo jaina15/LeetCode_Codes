@@ -304,7 +304,7 @@
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python3](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)|1853 ms|
 |2108|[ Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Python3](./solutions/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py)|102 ms|
 |2109|[ Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)|[Python3](./solutions/2109.%20Adding%20Spaces%20to%20a%20String.py)|698 ms|
-|2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Python3](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|33 ms|
+|2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Python3](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|56 ms|
 |2119|[ A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)|[Python3](./solutions/2119.%20A%20Number%20After%20a%20Double%20Reversal.py)|34 ms|
 |2124|[ Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)|[Python3](./solutions/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py)|45 ms|
 |2126|[ Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)|[Python3](./solutions/2126.%20Destroying%20Asteroids.py)|1085 ms|
