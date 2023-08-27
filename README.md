@@ -274,7 +274,7 @@
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|36 ms|
 |1683|[ Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)|[Oracle](./solutions/1683.%20Invalid%20Tweets.sql)|783 ms|
 |1688|[ Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python3](./solutions/1688.%20Count%20of%20Matches%20in%20Tournament.py)|33 ms|
-|1693|[ Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[Oracle](./solutions/1693.%20Daily%20Leads%20and%20Partners.sql)|1038 ms|
+|1693|[ Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[MySQL](./solutions/1693.%20Daily%20Leads%20and%20Partners.mysql)|1424 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python3](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)|1795 ms|
 |1729|[ Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[Oracle](./solutions/1729.%20Find%20Followers%20Count.sql)|926 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python3](./solutions/1732.%20Find%20the%20Highest%20Altitude.py)|45 ms|
