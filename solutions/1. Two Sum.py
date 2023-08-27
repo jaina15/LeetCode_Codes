@@ -3,6 +3,6 @@ class Solution:
         d=dict()
         for i,v in enumerate(nums):
             if target-v in d:
-                return [d[target-v],i] 
+                return [i,d[target-v]]
             else:
                 d[v]=i
