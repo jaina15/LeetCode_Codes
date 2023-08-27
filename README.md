@@ -303,6 +303,7 @@
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python3](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|63 ms|
 |2016|[ Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|[Python3](./solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py)|39 ms|
 |2042|[ Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)|[Python3](./solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py)|33 ms|
+|2082|[ The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/)|[MySQL](./solutions/2082.%20The%20Number%20of%20Rich%20Customers.mysql)|1255 ms|
 |2089|[ Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[Python3](./solutions/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.py)|48 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python3](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)|1853 ms|
 |2108|[ Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Python3](./solutions/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py)|102 ms|
