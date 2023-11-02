@@ -118,6 +118,7 @@
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python3](./solutions/402.%20Remove%20K%20Digits.py)|40 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python3](./solutions/404.%20Sum%20of%20Left%20Leaves.py)|24 ms|
 |437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python3](./solutions/437.%20Path%20Sum%20III.py)|928 ms|
+|442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python3](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.py)|289 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|64 ms|
 |449|[ Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Python3](./solutions/449.%20Serialize%20and%20Deserialize%20BST.py)|112 ms|
 |450|[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python3](./solutions/450.%20Delete%20Node%20in%20a%20BST.py)|72 ms|
