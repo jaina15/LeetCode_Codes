@@ -1,8 +1,9 @@
 class Solution:
     def subtractProductAndSum(self, n: int) -> int:
-        p,s=1,0
+        ans,p,s=0,1,0
         while n>0:
-            p*=(n%10)
-            s+=(n%10)
+            r = n%10
+            p*=r
+            s+=r
             n//=10
-        return (p-s)
+        return p-s
