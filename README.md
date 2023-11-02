@@ -210,7 +210,7 @@
 |1081|[ Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|[Python3](./solutions/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters.py)|36 ms|
 |1084|[ Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)|[MySQL](./solutions/1084.%20Sales%20Analysis%20III.mysql)|1795 ms|
 |1104|[ Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)|[Python3](./solutions/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree.py)|28 ms|
-|1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|34 ms|
+|1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|42 ms|
 |1110|[ Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python3](./solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py)|96 ms|
 |1123|[ Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Python3](./solutions/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py)|64 ms|
 |1141|[ User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)|[MySQL](./solutions/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.mysql)|820 ms|
