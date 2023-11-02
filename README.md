@@ -336,3 +336,4 @@
 |2574|[ Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Python3](./solutions/2574.%20Left%20and%20Right%20Sum%20Differences.py)|74 ms|
 |2879|[ Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/)|[Pandas](./solutions/2879.%20Display%20the%20First%20Three%20Rows.pandas)|646 ms|
 |2881|[ Create a New Column](https://leetcode.com/problems/create-a-new-column/)|[Pandas](./solutions/2881.%20Create%20a%20New%20Column.pandas)|464 ms|
+|2884|[ Modify Columns](https://leetcode.com/problems/modify-columns/)|[Pandas](./solutions/2884.%20Modify%20Columns.pandas)|575 ms|
