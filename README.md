@@ -307,7 +307,7 @@
 |2082|[ The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/)|[MySQL](./solutions/2082.%20The%20Number%20of%20Rich%20Customers.mysql)|1255 ms|
 |2085|[ Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python3](./solutions/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.py)|74 ms|
 |2089|[ Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[Python3](./solutions/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.py)|48 ms|
-|2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python3](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)|1853 ms|
+|2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python3](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)|1236 ms|
 |2108|[ Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Python3](./solutions/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py)|102 ms|
 |2109|[ Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)|[Python3](./solutions/2109.%20Adding%20Spaces%20to%20a%20String.py)|698 ms|
 |2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Python3](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|47 ms|
