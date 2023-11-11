@@ -12,7 +12,7 @@
 |16|[ 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python3](./solutions/16.%203Sum%20Closest.py)|975 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[Python3](./solutions/18.%204Sum.py)|913 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python3](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|34 ms|
-|20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python3](./solutions/20.%20Valid%20Parentheses.py)|36 ms|
+|20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python3](./solutions/20.%20Valid%20Parentheses.py)|46 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python3](./solutions/21.%20Merge%20Two%20Sorted%20Lists.py)|41 ms|
 |24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python3](./solutions/24.%20Swap%20Nodes%20in%20Pairs.py)|28 ms|
 |25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python3](./solutions/25.%20Reverse%20Nodes%20in%20k-Group.py)|46 ms|
