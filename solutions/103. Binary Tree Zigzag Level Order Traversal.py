@@ -9,19 +9,19 @@ class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return
-        l,a=[],[]
         q=queue()
         q.append(root)
         q.append(None)
-        c=0
+        l,a,c=[],[],0
         while len(q)>0:
             curr = q.popleft()
             if curr is None:
-                if c%2!=0:
-                    a=a[::-1]
-                l.append(a)
-                a=[]
+                if c%2==0:
+                    l.append(a)
+                else:
+                    l.append(a[::-1])
                 c+=1
+                a=[]
                 if len(q)==0:
                     break
                 q.append(None)
@@ -29,3 +29,6 @@ class Solution:
                 if curr.left:
                     q.append(curr.left)
                 if curr.right:
+                    q.append(curr.right)
+                a.append(curr.val)
+        return l
