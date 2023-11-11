@@ -4,49 +4,34 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        curr=l1
-        prev=None
-        while(curr):
-            next=curr.next
-            curr.next=prev
-            prev=curr
-            curr=next
-        l1=prev
-        num1=0
-        while(l1):
-        #    print(l1.val,end="->")
-            num1=num1*10+(l1.val)
-            l1=l1.next
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        list1 = self.reverse(l1)
+        list2 = self.reverse(l2)
         
-        curr=l2
-        prev=None
-        while(curr):
-            next=curr.next
-            curr.next=prev
-            prev=curr
-            curr=next
-        l2=prev
-        num2=0
-        while(l2):
-        #    print(l1.val,end="->")
-            num2=num2*10+(l2.val)
-            l2=l2.next
-            
-        #print(num1)
-        #print(num2)
-        res=num1+num2
-        #print(res)
-        ans=n=ListNode()
-        if res==0:
-            return ans
-        #print(ans)
-        while(res):
-            j=res%10
-            n.next=ListNode(j)
-            n=n.next
-            res=res//10
-        
-        #print(ans.next)
-        return ans.next
-            
+        summ = self.number_from_list(list1) + self.number_from_list(list2)
+        return ListNode(0) if summ==0 else self.list_from_number(summ)
+    
+    def reverse(self, head):
+        curr,prev = head,None
+        while curr:
+            nextt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nextt
+        return prev
+    
+    def number_from_list(self, head):
+        num = 0
+        while head:
+            num = num*10 + head.val
+            head = head.next
+        return num
+    
+    def list_from_number(self, summ):
+        l = ListNode(-1)
+        head = l
+        while summ>0:
+            l.next = ListNode(summ%10)
+            l = l.next
+            summ//=10
+        return head.next
