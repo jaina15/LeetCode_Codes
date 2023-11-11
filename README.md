@@ -54,7 +54,7 @@
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python3](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|67 ms|
 |117|[ Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python3](./solutions/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.py)|47 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python3](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|1079 ms|
-|125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python3](./solutions/125.%20Valid%20Palindrome.py)|49 ms|
+|125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python3](./solutions/125.%20Valid%20Palindrome.py)|50 ms|
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python3](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.py)|32 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Python3](./solutions/136.%20Single%20Number.py)|135 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python3](./solutions/141.%20Linked%20List%20Cycle.py)|58 ms|
