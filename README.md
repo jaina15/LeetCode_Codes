@@ -73,7 +73,7 @@
 |177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Oracle](./solutions/177.%20Nth%20Highest%20Salary.sql)|781 ms|
 |178|[ Rank Scores](https://leetcode.com/problems/rank-scores/)|[Oracle](./solutions/178.%20Rank%20Scores.sql)|588 ms|
 |180|[ Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Oracle](./solutions/180.%20Consecutive%20Numbers.sql)|929 ms|
-|181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Oracle](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|759 ms|
+|181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql)|632 ms|
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Oracle](./solutions/182.%20Duplicate%20Emails.sql)|609 ms|
 |183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Oracle](./solutions/183.%20Customers%20Who%20Never%20Order.sql)|990 ms|
 |184|[ Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Oracle](./solutions/184.%20Department%20Highest%20Salary.sql)|1030 ms|
