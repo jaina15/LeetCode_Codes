@@ -89,7 +89,7 @@
 |210|[ Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python3](./solutions/210.%20Course%20Schedule%20II.py)|96 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python3](./solutions/217.%20Contains%20Duplicate.py)|554 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python3](./solutions/219.%20Contains%20Duplicate%20II.py)|1644 ms|
-|222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python3](./solutions/222.%20Count%20Complete%20Tree%20Nodes.py)|88 ms|
+|222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python3](./solutions/222.%20Count%20Complete%20Tree%20Nodes.py)|78 ms|
 |225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python3](./solutions/225.%20Implement%20Stack%20using%20Queues.py)|28 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python3](./solutions/226.%20Invert%20Binary%20Tree.py)|35 ms|
 |227|[ Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Python3](./solutions/227.%20Basic%20Calculator%20II.py)|272 ms|
