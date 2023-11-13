@@ -5,16 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isUnivalTree(self, root: TreeNode) -> bool:
+    def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
         l=[]
-        self.inorder(root,l)
-        l.sort()
-        if l[0]==l[-1]:
-            return True
-        return False
+        self.helper(root,l)
+        return len(set(l))==1
     
-    def inorder(self,root,l):
+    def helper(self, root, l):
         if root:
-            self.inorder(root.left,l)
+            self.helper(root.left,l)
             l.append(root.val)
-            self.inorder(root.right,l)
+            self.helper(root.right,l)
