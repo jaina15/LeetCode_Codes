@@ -192,7 +192,7 @@
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|76 ms|
 |951|[ Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python3](./solutions/951.%20Flip%20Equivalent%20Binary%20Trees.py)|32 ms|
 |958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python3](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py)|36 ms|
-|965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python3](./solutions/965.%20Univalued%20Binary%20Tree.py)|32 ms|
+|965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python3](./solutions/965.%20Univalued%20Binary%20Tree.py)|28 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python3](./solutions/976.%20Largest%20Perimeter%20Triangle.py)|206 ms|
 |988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python3](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.py)|72 ms|
 |993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python3](./solutions/993.%20Cousins%20in%20Binary%20Tree.py)|32 ms|
