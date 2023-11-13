@@ -9,6 +9,7 @@ class Solution:
         l=[]
         self.helper(root,l)
         return l
+    
     def helper(self, root, l):
         if root:
             self.helper(root.left,l)
