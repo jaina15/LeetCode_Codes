@@ -5,8 +5,8 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def countNodes(self, root: TreeNode) -> int:
-        if root is None:
+    def countNodes(self, root: Optional[TreeNode]) -> int:
+        if not root:
             return 0
         else:
-            return 1+self.countNodes(root.left)+self.countNodes(root.right)
+            return 1 + self.countNodes(root.left) + self.countNodes(root.right)
