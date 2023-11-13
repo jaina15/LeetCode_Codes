@@ -6,15 +6,15 @@
 #         self.right = right
 from collections import deque as queue
 class Solution:
-    def largestValues(self, root: TreeNode) -> List[int]:
-        if root is None:
+    def largestValues(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
             return
         q=queue()
         q.append(root)
         q.append(None)
         l,a=[],[]
         while len(q)>0:
-            curr=q.popleft()
+            curr = q.popleft()
             if curr is None:
                 l.append(max(a))
                 a=[]
@@ -27,5 +27,4 @@ class Solution:
                 if curr.right:
                     q.append(curr.right)
                 a.append(curr.val)
-        
         return l
