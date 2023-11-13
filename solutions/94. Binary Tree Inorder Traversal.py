@@ -6,19 +6,18 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-    # this is recursive solution
+    # recursive solution
 #         l=[]
-#         self.helper(root, l)
+#         self.helper(root,l)
 #         return l
+            
     
-#     def helper(self, root, l):
+#     def helper(self,root,l):
 #         if root:
 #             self.helper(root.left,l)
 #             l.append(root.val)
 #             self.helper(root.right,l)
-    
-    # this is iterative solution
-        stack,inorder=[],[]
+        stack,inorder = [],[]
         while root:
             stack.append(root)
             root = root.left
@@ -30,4 +29,3 @@ class Solution:
                 stack.append(curr)
                 curr = curr.left
         return inorder
-​
