@@ -8,10 +8,10 @@ class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         l=[]
         self.helper(root,l)
-        return l==sorted(l) and l==sorted(list(set(l)))
+        return l == sorted(l) and l == sorted(list(set(l)))
     
-    def helper(self,root,l):
+    def helper(self, root, l):
         if root:
-            self.helper(root.left,l)
+            self.helper(root.left, l)
             l.append(root.val)
-            self.helper(root.right,l)
+            self.helper(root.right, l)
