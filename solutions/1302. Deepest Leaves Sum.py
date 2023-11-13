@@ -6,27 +6,25 @@
 #         self.right = right
 from collections import deque as queue
 class Solution:
-    def deepestLeavesSum(self, root: TreeNode) -> int:
-        if root is None:
+    def deepestLeavesSum(self, root: Optional[TreeNode]) -> int:
+        if not root:
             return
         q=queue()
         q.append(root)
         q.append(None)
         l,a=[],[]
         while len(q)>0:
-            curr=q.popleft()
+            curr = q.popleft()
             if curr is None:
                 l.append(a)
                 a=[]
                 if len(q)==0:
                     break
                 q.append(None)
-            
             else:
                 if curr.left:
                     q.append(curr.left)
                 if curr.right:
                     q.append(curr.right)
                 a.append(curr.val)
-        
         return sum(l[-1])
