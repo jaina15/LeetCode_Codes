@@ -224,6 +224,7 @@
 |1174|[ Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/)|[MySQL](./solutions/1174.%20Immediate%20Food%20Delivery%20II.mysql)|1695 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MS SQL Server](./solutions/1179.%20Reformat%20Department%20Table.ms%20sql%20server)|1597 ms|
 |1190|[ Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python3](./solutions/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)|40 ms|
+|1204|[ Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)|[MySQL](./solutions/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.mysql)|1319 ms|
 |1207|[ Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python3](./solutions/1207.%20Unique%20Number%20of%20Occurrences.py)|28 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Python3](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.py)|176 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Python3](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)|152 ms|
