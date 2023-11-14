@@ -255,7 +255,7 @@
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python3](./solutions/1470.%20Shuffle%20the%20Array.py)|57 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python3](./solutions/1480.%20Running%20Sum%20of%201d%20Array.py)|39 ms|
 |1484|[ Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[MySQL](./solutions/1484.%20Group%20Sold%20Products%20By%20The%20Date.mysql)|1186 ms|
-|1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.py)|37 ms|
+|1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.py)|33 ms|
 |1491|[ Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python3](./solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)|32 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python3](./solutions/1512.%20Number%20of%20Good%20Pairs.py)|26 ms|
 |1527|[ Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)|[Oracle](./solutions/1527.%20Patients%20With%20a%20Condition.sql)|585 ms|
