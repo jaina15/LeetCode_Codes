@@ -141,6 +141,7 @@
 |572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python3](./solutions/572.%20Subtree%20of%20Another%20Tree.py)|228 ms|
 |577|[ Employee Bonus](https://leetcode.com/problems/employee-bonus/)|[MySQL](./solutions/577.%20Employee%20Bonus.mysql)|2269 ms|
 |584|[ Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[Oracle](./solutions/584.%20Find%20Customer%20Referee.sql)|883 ms|
+|585|[ Investments in 2016](https://leetcode.com/problems/investments-in-2016/)|[MySQL](./solutions/585.%20Investments%20in%202016.mysql)|886 ms|
 |586|[ Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Oracle](./solutions/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)|738 ms|
 |595|[ Big Countries](https://leetcode.com/problems/big-countries/)|[Oracle](./solutions/595.%20Big%20Countries.sql)|413 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Oracle](./solutions/596.%20Classes%20More%20Than%205%20Students.sql)|526 ms|
