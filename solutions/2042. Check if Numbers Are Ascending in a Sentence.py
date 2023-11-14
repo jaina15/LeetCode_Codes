@@ -1,11 +1,11 @@
 class Solution:
     def areNumbersAscending(self, s: str) -> bool:
+        words = s.split()
         prev=-1
-        s=s.split()
-        for char in s:
-            if char.isnumeric():
-                if int(char)<=prev:
-                    return False
+        for word in words:
+            if word.isnumeric():
+                if prev<int(word):
+                    prev = int(word)
                 else:
-                    prev=int(char)
+                    return False
         return True
