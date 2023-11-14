@@ -321,7 +321,7 @@
 |2180|[ Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python3](./solutions/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum.py)|33 ms|
 |2181|[ Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[Python3](./solutions/2181.%20Merge%20Nodes%20in%20Between%20Zeros.py)|3124 ms|
 |2185|[ Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python3](./solutions/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py)|49 ms|
-|2235|[ Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Python3](./solutions/2235.%20Add%20Two%20Integers.py)|23 ms|
+|2235|[ Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Python3](./solutions/2235.%20Add%20Two%20Integers.py)|39 ms|
 |2236|[ Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python3](./solutions/2236.%20Root%20Equals%20Sum%20of%20Children.py)|36 ms|
 |2351|[ First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python3](./solutions/2351.%20First%20Letter%20to%20Appear%20Twice.py)|34 ms|
 |2356|[ Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)|[MySQL](./solutions/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.mysql)|1068 ms|
