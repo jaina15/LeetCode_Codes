@@ -1,9 +1,6 @@
 class Solution:
     def sortSentence(self, s: str) -> str:
-        l=s.split(" ")
-        lis=[]
-        for w in l:
-            lis.append((w[:-1],w[-1:]))
-        lis=sorted(lis,key=lambda x:x[1])
-        
-        return ' '.join([w[0] for w in lis])
+        words = s.split()
+        words = [[word[:-1],word[-1]] for word in words]
+        lis=sorted(words,key=lambda x:x[1])
+        return ' '.join([word[0] for word in lis])
