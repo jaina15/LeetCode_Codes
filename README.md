@@ -349,3 +349,4 @@
 |2879|[ Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/)|[Pandas](./solutions/2879.%20Display%20the%20First%20Three%20Rows.pandas)|646 ms|
 |2881|[ Create a New Column](https://leetcode.com/problems/create-a-new-column/)|[Pandas](./solutions/2881.%20Create%20a%20New%20Column.pandas)|464 ms|
 |2884|[ Modify Columns](https://leetcode.com/problems/modify-columns/)|[Pandas](./solutions/2884.%20Modify%20Columns.pandas)|575 ms|
+|2888|[ Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/)|[Pandas](./solutions/2888.%20Reshape%20Data%3A%20Concatenate.pandas)|469 ms|
