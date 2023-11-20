@@ -345,6 +345,7 @@
 |2798|[ Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)|[Python3](./solutions/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target.py)|38 ms|
 |2816|[ Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)|[Python3](./solutions/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.py)|490 ms|
 |2828|[ Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)|[Python3](./solutions/2828.%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.py)|60 ms|
+|2878|[ Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/)|[Pandas](./solutions/2878.%20Get%20the%20Size%20of%20a%20DataFrame.pandas)|542 ms|
 |2879|[ Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/)|[Pandas](./solutions/2879.%20Display%20the%20First%20Three%20Rows.pandas)|646 ms|
 |2881|[ Create a New Column](https://leetcode.com/problems/create-a-new-column/)|[Pandas](./solutions/2881.%20Create%20a%20New%20Column.pandas)|464 ms|
 |2884|[ Modify Columns](https://leetcode.com/problems/modify-columns/)|[Pandas](./solutions/2884.%20Modify%20Columns.pandas)|575 ms|
