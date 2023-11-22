@@ -4,7 +4,7 @@ class Solution:
         maxi=nums[0]
         for i in nums:
             sum+=i
-            maxi=max(maxi,sum)
+            maxi = max(sum,maxi)
             if sum<0:
                 sum=0
         return maxi
