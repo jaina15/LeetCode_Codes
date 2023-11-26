@@ -3,6 +3,5 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n=len(nums)
-        k%=n
-        nums[:]=nums[n-k:]+nums[:n-k]
+        k=k%len(nums)
+        nums[:] = nums[len(nums)-k:]+nums[:len(nums)-k]
