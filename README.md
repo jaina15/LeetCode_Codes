@@ -339,6 +339,7 @@
 |2469|[ Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python3](./solutions/2469.%20Convert%20the%20Temperature.py)|40 ms|
 |2523|[ Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)|[Python3](./solutions/2523.%20Closest%20Prime%20Numbers%20in%20Range.py)|3025 ms|
 |2529|[ Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)|[Python3](./solutions/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py)|131 ms|
+|2540|[ Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)|[Python3](./solutions/2540.%20Minimum%20Common%20Value.py)|381 ms|
 |2544|[ Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)|[Python3](./solutions/2544.%20Alternating%20Digit%20Sum.py)|23 ms|
 |2545|[ Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[Python3](./solutions/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.py)|373 ms|
 |2549|[ Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/)|[Python3](./solutions/2549.%20Count%20Distinct%20Numbers%20on%20Board.py)|44 ms|
