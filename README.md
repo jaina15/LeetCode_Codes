@@ -334,7 +334,7 @@
 |2413|[ Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Python3](./solutions/2413.%20Smallest%20Even%20Multiple.py)|40 ms|
 |2418|[ Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python3](./solutions/2418.%20Sort%20the%20People.py)|114 ms|
 |2455|[ Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python3](./solutions/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py)|79 ms|
-|2460|[ Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[Python3](./solutions/2460.%20Apply%20Operations%20to%20an%20Array.py)|45 ms|
+|2460|[ Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[Python3](./solutions/2460.%20Apply%20Operations%20to%20an%20Array.py)|55 ms|
 |2469|[ Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python3](./solutions/2469.%20Convert%20the%20Temperature.py)|40 ms|
 |2523|[ Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)|[Python3](./solutions/2523.%20Closest%20Prime%20Numbers%20in%20Range.py)|3025 ms|
 |2529|[ Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)|[Python3](./solutions/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py)|131 ms|
