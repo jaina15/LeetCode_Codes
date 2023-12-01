@@ -323,6 +323,7 @@
 |2126|[ Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)|[Python3](./solutions/2126.%20Destroying%20Asteroids.py)|1085 ms|
 |2129|[ Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)|[Python3](./solutions/2129.%20Capitalize%20the%20Title.py)|65 ms|
 |2130|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Python3](./solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py)|647 ms|
+|2149|[ Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Python3](./solutions/2149.%20Rearrange%20Array%20Elements%20by%20Sign.py)|1189 ms|
 |2180|[ Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python3](./solutions/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum.py)|33 ms|
 |2181|[ Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[Python3](./solutions/2181.%20Merge%20Nodes%20in%20Between%20Zeros.py)|3124 ms|
 |2185|[ Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python3](./solutions/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py)|49 ms|
