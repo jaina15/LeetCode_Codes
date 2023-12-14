@@ -117,6 +117,7 @@
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python3](./solutions/383.%20Ransom%20Note.py)|66 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python3](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.py)|385 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python3](./solutions/389.%20Find%20the%20Difference.py)|50 ms|
+|392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python3](./solutions/392.%20Is%20Subsequence.py)|42 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[Python3](./solutions/394.%20Decode%20String.py)|28 ms|
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python3](./solutions/402.%20Remove%20K%20Digits.py)|40 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python3](./solutions/404.%20Sum%20of%20Left%20Leaves.py)|24 ms|
