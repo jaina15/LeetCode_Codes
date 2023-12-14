@@ -80,7 +80,7 @@
 |184|[ Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MySQL](./solutions/184.%20Department%20Highest%20Salary.mysql)|1388 ms|
 |185|[ Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[Oracle](./solutions/185.%20Department%20Top%20Three%20Salaries.sql)|1370 ms|
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python3](./solutions/189.%20Rotate%20Array.py)|181 ms|
-|196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Oracle](./solutions/196.%20Delete%20Duplicate%20Emails.sql)|987 ms|
+|196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./solutions/196.%20Delete%20Duplicate%20Emails.mysql)|1277 ms|
 |197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL](./solutions/197.%20Rising%20Temperature.mysql)|763 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python3](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.py)|33 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[Python3](./solutions/202.%20Happy%20Number.py)|38 ms|
