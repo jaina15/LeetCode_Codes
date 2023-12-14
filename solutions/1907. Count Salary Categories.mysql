@@ -1,20 +1,22 @@
+# Write your MySQL query statement below
 WITH CTE AS(
-    SELECT
-    CASE
-        WHEN INCOME<20000 THEN 'Low Salary'
-        WHEN INCOME>50000 THEN 'High Salary'
-        ELSE 'Average Salary'
-    END AS CATEGORY,ACCOUNT_ID
-    FROM ACCOUNTS
-),
-CTE_C AS(
-SELECT 'Low Salary' AS CATEGORY
-UNION
-SELECT 'High Salary' AS CATEGORY
-UNION
-SELECT 'Average Salary' AS CATEGORY)
-SELECT 
-CTE_C.CATEGORY,COUNT(CTE.ACCOUNT_ID) AS ACCOUNTS_COUNT FROM
-CTE RIGHT JOIN CTE_C
-ON CTE.CATEGORY = CTE_C.CATEGORY
-GROUP BY CTE.CATEGORY
+SELECT
+CASE 
+    WHEN INCOME<20000 THEN 'Low Salary'
+    WHEN INCOME>=20000 AND INCOME<=50000 THEN 'Average Salary'
+    WHEN INCOME>50000 THEN 'High Salary'
+END AS Category,account_id
+from Accounts),
+CAT_CTE AS(
+    SELECT 'Low Salary' AS Category
+    union
+    SELECT 'Average Salary' AS Category
+    union
+    SELECT 'High Salary' AS Category
+)
+SELECT
+ca.category,count(cte.account_id) as accounts_count
+from
+cat_cte ca left join cte
+on ca.category=cte.category
+group by 1
