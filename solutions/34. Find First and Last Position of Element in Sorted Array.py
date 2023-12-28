@@ -1,39 +1,24 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        first = self.firstOccurrence(nums,target)
-        last = self.lastOccurrence(nums,target)
-        return [first,last]
-    
-    def firstOccurrence(self,nums,target):
-        low=0
-        high=len(nums)-1
-        
-        while low<=high:
-            mid = (low+high)//2
-            if nums[mid]<target:
-                low = mid+1
-            elif nums[mid]>target:
-                high = mid-1
+        ans=[-1,-1]
+        start = self.search(nums, target, True)
+        end = self.search(nums, target, False)
+        ans[0], ans[1] = start, end
+        return ans
+​
+    def search(self, nums, target, searchFirst):
+        ans = -1
+        start, end=0,len(nums)-1
+        while start<=end:
+            mid = start + (end-start)//2
+            if target < nums[mid]:
+                end = mid - 1
+            elif target > nums[mid]:
+                start = mid + 1
             else:
-                if mid==0 or nums[mid]!=nums[mid-1]:
-                    return mid
+                ans = mid
+                if searchFirst:
+                    end = mid - 1
                 else:
-                    high=mid-1
-        return -1
-    
-    def lastOccurrence(self,nums,target):
-        low=0
-        high=len(nums)-1
-        
-        while low<=high:
-            mid = (low+high)//2
-            if nums[mid]<target:
-                low = mid+1
-            elif nums[mid]>target:
-                high = mid-1
-            else:
-                if mid==len(nums)-1 or nums[mid]!=nums[mid+1]:
-                    return mid
-                else:
-                    low=mid+1
-        return -1
+                    start = mid + 1
+        return ans
