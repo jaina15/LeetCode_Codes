@@ -361,3 +361,4 @@
 |2881|[ Create a New Column](https://leetcode.com/problems/create-a-new-column/)|[Pandas](./solutions/2881.%20Create%20a%20New%20Column.pandas)|464 ms|
 |2884|[ Modify Columns](https://leetcode.com/problems/modify-columns/)|[Pandas](./solutions/2884.%20Modify%20Columns.pandas)|575 ms|
 |2888|[ Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/)|[Pandas](./solutions/2888.%20Reshape%20Data%3A%20Concatenate.pandas)|469 ms|
+|2942|[ Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)|[Python3](./solutions/2942.%20Find%20Words%20Containing%20Character.py)|59 ms|
