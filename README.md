@@ -5,7 +5,7 @@
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions/1.%20Two%20Sum.py)|102 ms|
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python3](./solutions/2.%20Add%20Two%20Numbers.py)|120 ms|
 |3|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python3](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|129 ms|
-|4|[ Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.cpp)|28 ms|
+|4|[ Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python3](./solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|156 ms|
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python3](./solutions/9.%20Palindrome%20Number.py)|51 ms|
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python3](./solutions/14.%20Longest%20Common%20Prefix.py)|29 ms|
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[Python3](./solutions/15.%203Sum.py)|2160 ms|
