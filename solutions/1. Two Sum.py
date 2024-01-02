@@ -5,5 +5,5 @@ class Solution:
             if target-v in d:
                 return [d[target-v],i]
             else:
-                d[v] = i
+                d[v]=i
         return
