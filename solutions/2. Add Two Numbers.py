@@ -1,3 +1,4 @@
+            l2 = l2.next
         
         if l1:
             while l1:
