@@ -7,7 +7,7 @@ class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         curr,count,k=head,0,2
         while curr and count<k:
-            curr=curr.next
+            curr = curr.next
             count+=1
         if count<k:
             return head
@@ -16,11 +16,12 @@ class Solution:
         return prev
     
     def reverse(self, head, count):
-        curr,prev=head,None
+        curr, prev = head, None
         while curr and count>0:
-            nextt=curr.next
-            curr.next=prev
-            prev=curr
-            curr=nextt
+            nextt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nextt
             count-=1
-        return (curr,prev)
+        return (curr, prev)
+        
