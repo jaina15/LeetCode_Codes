@@ -332,7 +332,7 @@
 |2130|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Python3](./solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py)|647 ms|
 |2149|[ Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Python3](./solutions/2149.%20Rearrange%20Array%20Elements%20by%20Sign.py)|1189 ms|
 |2180|[ Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python3](./solutions/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum.py)|33 ms|
-|2181|[ Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[Python3](./solutions/2181.%20Merge%20Nodes%20in%20Between%20Zeros.py)|3124 ms|
+|2181|[ Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[Python3](./solutions/2181.%20Merge%20Nodes%20in%20Between%20Zeros.py)|1020 ms|
 |2185|[ Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python3](./solutions/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py)|49 ms|
 |2215|[ Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|[Python3](./solutions/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.py)|163 ms|
 |2235|[ Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Python3](./solutions/2235.%20Add%20Two%20Integers.py)|39 ms|
