@@ -13,7 +13,6 @@ class Solution:
             slow.next.next = fast
             slow = fast
             fast = fast.next
-        
         return head
     
     @staticmethod
