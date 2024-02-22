@@ -198,7 +198,7 @@
 |907|[ Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python3](./solutions/907.%20Sum%20of%20Subarray%20Minimums.py)|628 ms|
 |919|[ Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)|[Python3](./solutions/919.%20Complete%20Binary%20Tree%20Inserter.py)|468 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|48 ms|
-|938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python3](./solutions/938.%20Range%20Sum%20of%20BST.py)|276 ms|
+|938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python3](./solutions/938.%20Range%20Sum%20of%20BST.py)|105 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|76 ms|
 |951|[ Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python3](./solutions/951.%20Flip%20Equivalent%20Binary%20Trees.py)|32 ms|
 |958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python3](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py)|36 ms|
