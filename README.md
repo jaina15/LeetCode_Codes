@@ -28,7 +28,7 @@
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python3](./solutions/53.%20Maximum%20Subarray.py)|593 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python3](./solutions/58.%20Length%20of%20Last%20Word.py)|47 ms|
 |61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[Python3](./solutions/61.%20Rotate%20List.py)|34 ms|
-|66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Python3](./solutions/66.%20Plus%20One.py)|36 ms|
+|66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Python3](./solutions/66.%20Plus%20One.py)|35 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python3](./solutions/75.%20Sort%20Colors.py)|48 ms|
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python3](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.py)|40 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python3](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|41 ms|
