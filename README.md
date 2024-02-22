@@ -239,6 +239,7 @@
 |1251|[ Average Selling Price](https://leetcode.com/problems/average-selling-price/)|[MySQL](./solutions/1251.%20Average%20Selling%20Price.mysql)|1637 ms|
 |1261|[ Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Python3](./solutions/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.py)|752 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python3](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)|38 ms|
+|1282|[ Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python3](./solutions/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.py)|61 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python3](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)|35 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python3](./solutions/1302.%20Deepest%20Leaves%20Sum.py)|167 ms|
 |1305|[ All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Python3](./solutions/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.py)|322 ms|
