@@ -130,6 +130,7 @@
 |450|[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python3](./solutions/450.%20Delete%20Node%20in%20a%20BST.py)|72 ms|
 |456|[ 132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python3](./solutions/456.%20132%20Pattern.py)|536 ms|
 |485|[ Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python3](./solutions/485.%20Max%20Consecutive%20Ones.py)|313 ms|
+|494|[ Target Sum](https://leetcode.com/problems/target-sum/)|[Python3](./solutions/494.%20Target%20Sum.py)|217 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python3](./solutions/496.%20Next%20Greater%20Element%20I.py)|48 ms|
 |501|[ Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python3](./solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py)|61 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python3](./solutions/503.%20Next%20Greater%20Element%20II.py)|234 ms|
