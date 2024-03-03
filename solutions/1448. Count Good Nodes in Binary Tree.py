@@ -5,16 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    s=0
     def goodNodes(self, root: TreeNode) -> int:
-        maxi=root.val
-        self.counter(root,maxi)
-        return self.s
-    
-    def counter(self,root,maxi):
-        if root:
-            if root.val>=maxi:
-                maxi=root.val
-                self.s+=1
-            self.counter(root.left,maxi)
-            self.counter(root.right,maxi)
+        def dfs(node, maxVal):
+            if not node:
+                return 0
+            res = 1 if node.val>=maxVal else 0
+            maxVal = max(maxVal, node.val)
+            res += dfs(node.left, maxVal)
+            res += dfs(node.right, maxVal)
+            return res
+        return dfs(root,root.val)
