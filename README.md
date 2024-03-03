@@ -261,7 +261,7 @@
 |1407|[ Top Travellers](https://leetcode.com/problems/top-travellers/)|[Oracle](./solutions/1407.%20Top%20Travellers.sql)|1049 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python3](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py)|47 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python3](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.py)|28 ms|
-|1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python3](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.py)|240 ms|
+|1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python3](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.py)|127 ms|
 |1450|[ Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python3](./solutions/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py)|40 ms|
 |1457|[ Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python3](./solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.py)|864 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python3](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py)|52 ms|
