@@ -5,16 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    sum_val=0
     def bstToGst(self, root: TreeNode) -> TreeNode:
-        node=self.modifier(root)
-        return node
-    
-    def modifier(self,root):
-        if root:
-            self.modifier(root.right)
-            self.sum_val+=root.val
-            root.val=self.sum_val
-            self.modifier(root.left)
-        
+        currSum=0
+        def dfs(node):
+            if not node:
+                return
+            nonlocal currSum
+            dfs(node.right)
+            temp = node.val
+            node.val+=currSum
+            currSum+=temp
+            dfs(node.left)
+        dfs(root)
         return root
