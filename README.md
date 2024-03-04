@@ -375,3 +375,4 @@
 |2884|[ Modify Columns](https://leetcode.com/problems/modify-columns/)|[Pandas](./solutions/2884.%20Modify%20Columns.pandas)|575 ms|
 |2888|[ Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/)|[Pandas](./solutions/2888.%20Reshape%20Data%3A%20Concatenate.pandas)|469 ms|
 |2942|[ Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)|[Python3](./solutions/2942.%20Find%20Words%20Containing%20Character.py)|59 ms|
+|3028|[ Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/)|[Python3](./solutions/3028.%20Ant%20on%20the%20Boundary.py)|49 ms|
