@@ -346,6 +346,7 @@
 |2351|[ First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python3](./solutions/2351.%20First%20Letter%20to%20Appear%20Twice.py)|34 ms|
 |2356|[ Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)|[MySQL](./solutions/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.mysql)|1068 ms|
 |2357|[ Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Python3](./solutions/2357.%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.py)|42 ms|
+|2367|[ Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)|[Python3](./solutions/2367.%20Number%20of%20Arithmetic%20Triplets.py)|47 ms|
 |2390|[ Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[Python3](./solutions/2390.%20Removing%20Stars%20From%20a%20String.py)|233 ms|
 |2413|[ Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Python3](./solutions/2413.%20Smallest%20Even%20Multiple.py)|40 ms|
 |2418|[ Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python3](./solutions/2418.%20Sort%20the%20People.py)|114 ms|
