@@ -295,6 +295,7 @@
 |1673|[ Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[Python3](./solutions/1673.%20Find%20the%20Most%20Competitive%20Subsequence.py)|1360 ms|
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|36 ms|
 |1683|[ Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)|[MySQL](./solutions/1683.%20Invalid%20Tweets.mysql)|1122 ms|
+|1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.py)|210 ms|
 |1688|[ Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python3](./solutions/1688.%20Count%20of%20Matches%20in%20Tournament.py)|33 ms|
 |1693|[ Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[MySQL](./solutions/1693.%20Daily%20Leads%20and%20Partners.mysql)|1309 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python3](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)|1795 ms|
