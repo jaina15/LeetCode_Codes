@@ -162,6 +162,7 @@
 |611|[ Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python3](./solutions/611.%20Valid%20Triangle%20Number.py)|979 ms|
 |615|[ Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/)|[MySQL](./solutions/615.%20Average%20Salary%3A%20Departments%20VS%20Company.mysql)|564 ms|
 |617|[ Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python3](./solutions/617.%20Merge%20Two%20Binary%20Trees.py)|74 ms|
+|618|[ Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/)|[MySQL](./solutions/618.%20Students%20Report%20By%20Geography.mysql)|417 ms|
 |619|[ Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)|[Oracle](./solutions/619.%20Biggest%20Single%20Number.sql)|614 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Oracle](./solutions/620.%20Not%20Boring%20Movies.sql)|510 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python3](./solutions/623.%20Add%20One%20Row%20to%20Tree.py)|52 ms|
