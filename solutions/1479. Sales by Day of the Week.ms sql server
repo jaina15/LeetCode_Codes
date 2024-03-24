@@ -1,0 +1,21 @@
+WITH CTE AS (
+    SELECT I.ITEM_CATEGORY as category, isnull(o.quantity,0) quantity,DATENAME(weekday, ORDER_DATE) AS WEEKD
+    FROM ORDERS O
+    right JOIN ITEMS I ON O.ITEM_ID = I.ITEM_ID
+)
+SELECT 
+category,
+ISNULL([Monday], 0) AS [MONDAY], 
+    ISNULL([Tuesday], 0) AS [TUESDAY], 
+    ISNULL([Wednesday], 0) AS [WEDNESDAY], 
+    ISNULL([Thursday], 0) AS [THURSDAY], 
+    ISNULL([Friday], 0) AS [FRIDAY], 
+    ISNULL([Saturday], 0) AS [SATURDAY], 
+    ISNULL([Sunday], 0) AS [SUNDAY]
+     FROM (
+    SELECT * FROM CTE
+    PIVOT (
+        SUM(QUANTITY) FOR WEEKD IN ([Monday], [Tuesday], [Wednesday], [Thursday], [Friday], [Saturday], [Sunday])
+    ) AS t
+) AS p;
+​
