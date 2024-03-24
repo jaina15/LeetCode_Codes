@@ -310,6 +310,7 @@
 |1748|[ Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python3](./solutions/1748.%20Sum%20of%20Unique%20Elements.py)|34 ms|
 |1752|[ Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python3](./solutions/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py)|44 ms|
 |1757|[ Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./solutions/1757.%20Recyclable%20and%20Low%20Fat%20Products.mysql)|1036 ms|
+|1767|[ Find the Subtasks That Did Not Execute](https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/)|[MS SQL Server](./solutions/1767.%20Find%20the%20Subtasks%20That%20Did%20Not%20Execute.ms%20sql%20server)|2118 ms|
 |1795|[ Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[MySQL](./solutions/1795.%20Rearrange%20Products%20Table.mysql)|1167 ms|
 |1816|[ Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python3](./solutions/1816.%20Truncate%20Sentence.py)|30 ms|
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python3](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|38 ms|
