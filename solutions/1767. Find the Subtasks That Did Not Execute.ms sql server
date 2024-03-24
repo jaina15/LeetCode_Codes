@@ -1,0 +1,9 @@
+WITH temp AS (
+SELECT task_id,1 as subtask_id,subtasks_count from Tasks
+union all
+select task_id,(subtask_id +1) as subtask_id,subtasks_count from temp
+where subtask_id <subtasks_count
+)
+select task_id,subtask_id from temp
+except
+select task_id,subtask_id from executed
